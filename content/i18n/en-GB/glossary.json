@@ -1,0 +1,3430 @@
+{
+  "above": {
+    "word": "above",
+    "definition": "at a higher level than something else",
+    "variations": [
+      "above"
+    ],
+    "emoji": "⬆️☁️",
+    "id": "gl001"
+  },
+  "access": {
+    "word": "access",
+    "definition": "the chance or ability to use or get something",
+    "variations": [
+      "access"
+    ],
+    "emoji": "🔓📚",
+    "id": "gl002"
+  },
+  "accident": {
+    "word": "accident",
+    "definition": "something bad that happens suddenly and is not planned",
+    "variations": [
+      "accident",
+      "accidents"
+    ],
+    "emoji": "⚠️🚗",
+    "id": "gl003"
+  },
+  "accidentally": {
+    "word": "accidentally",
+    "definition": "by mistake and not on purpose",
+    "variations": [
+      "accidentally"
+    ],
+    "emoji": "😮⚠️",
+    "id": "gl004"
+  },
+  "accompany": {
+    "word": "accompany",
+    "definition": "to go with something or be added to it",
+    "variations": [
+      "accompany",
+      "accompanies",
+      "accompanied",
+      "accompanying"
+    ],
+    "emoji": "👫🖼️",
+    "id": "gl005"
+  },
+  "acknowledge": {
+    "word": "acknowledge",
+    "definition": "to show that you have noticed or accepted something",
+    "variations": [
+      "acknowledge",
+      "acknowledges",
+      "acknowledged",
+      "acknowledging"
+    ],
+    "emoji": "✅🙌",
+    "id": "gl006"
+  },
+  "across": {
+    "word": "across",
+    "definition": "from one side to the other side",
+    "variations": [
+      "across"
+    ],
+    "emoji": "↔️🛣️",
+    "id": "gl007"
+  },
+  "actions": {
+    "word": "actions",
+    "definition": "the things that a person does",
+    "variations": [
+      "action",
+      "actions"
+    ],
+    "emoji": "🚶✋",
+    "id": "gl008"
+  },
+  "active voice": {
+    "word": "active voice",
+    "definition": "a sentence form where the doer of the action comes first",
+    "variations": [
+      "active voice",
+      "active voices"
+    ],
+    "emoji": "🗣️➡️",
+    "id": "gl009"
+  },
+  "activity": {
+    "word": "activity",
+    "definition": "a task or exercise that helps someone learn or practise",
+    "variations": [
+      "activity",
+      "activities"
+    ],
+    "emoji": "✍️📘",
+    "id": "gl010"
+  },
+  "admire": {
+    "word": "admire",
+    "definition": "to look at something with pleasure or respect",
+    "variations": [
+      "admire",
+      "admired",
+      "admiring"
+    ],
+    "emoji": "😊🌟",
+    "id": "gl011"
+  },
+  "alarm": {
+    "word": "alarm",
+    "definition": "a sound or signal that tells you it is time to wake up or do something",
+    "variations": [
+      "alarm",
+      "alarms"
+    ],
+    "emoji": "⏰⏳",
+    "id": "gl012"
+  },
+  "albinism": {
+    "word": "albinism",
+    "definition": "a condition where a person has very little or no natural colour in the skin, hair, or eyes",
+    "variations": [
+      "albinism"
+    ],
+    "emoji": "🧬👀",
+    "id": "gl013"
+  },
+  "alternative": {
+    "word": "alternative",
+    "definition": "one choice out of two or more possibilities",
+    "variations": [
+      "alternative",
+      "alternatives"
+    ],
+    "emoji": "↔️🤔",
+    "id": "gl014"
+  },
+  "antonym": {
+    "word": "antonym",
+    "definition": "a word that means the opposite of another word",
+    "variations": [
+      "antonym",
+      "antonyms"
+    ],
+    "emoji": "↔️📖",
+    "id": "gl015"
+  },
+  "apologise": {
+    "word": "apologise",
+    "definition": "to say sorry for something wrong you have done",
+    "variations": [
+      "apologise",
+      "apologises",
+      "apologised",
+      "apologising",
+      "apology",
+      "apologies"
+    ],
+    "emoji": "😔🙏",
+    "id": "gl016"
+  },
+  "apologising": {
+    "word": "apologising",
+    "definition": "saying or writing that you are sorry",
+    "variations": [
+      "apologise",
+      "apologised",
+      "apologising",
+      "apologises"
+    ],
+    "emoji": "🙏😔",
+    "id": "gl017"
+  },
+  "apology": {
+    "word": "apology",
+    "definition": "something you say or write to show that you are sorry",
+    "variations": [
+      "apology",
+      "apologies"
+    ],
+    "emoji": "😔🙏",
+    "id": "gl018"
+  },
+  "appreciation": {
+    "word": "appreciation",
+    "definition": "a feeling or expression of thanks for something good someone has done",
+    "variations": [
+      "appreciation",
+      "appreciations",
+      "appreciate",
+      "appreciated"
+    ],
+    "emoji": "🙏🌷",
+    "id": "gl019"
+  },
+  "arithmetic": {
+    "word": "arithmetic",
+    "definition": "the part of mathematics about numbers and basic calculation",
+    "variations": [
+      "arithmetic"
+    ],
+    "emoji": "➕➗🔢",
+    "id": "gl020"
+  },
+  "arrest": {
+    "word": "arrest",
+    "definition": "to catch someone by law because they may have done something wrong",
+    "variations": [
+      "arrest",
+      "arrested",
+      "arrests",
+      "arresting"
+    ],
+    "emoji": "🚓✋",
+    "id": "gl021"
+  },
+  "arrive": {
+    "word": "arrive",
+    "definition": "to get to a place",
+    "variations": [
+      "arrive",
+      "arrived",
+      "arrives",
+      "arriving"
+    ],
+    "emoji": "🚶📍",
+    "id": "gl022"
+  },
+  "arrow": {
+    "word": "arrow",
+    "definition": "a sign with a pointed end that shows direction",
+    "variations": [
+      "arrow",
+      "arrows"
+    ],
+    "emoji": "➡️🧭",
+    "id": "gl023"
+  },
+  "artiste": {
+    "word": "artiste",
+    "definition": "a performer, especially a singer, dancer, or entertainer",
+    "variations": [
+      "artiste",
+      "artistes"
+    ],
+    "emoji": "🎶🌟",
+    "id": "gl024"
+  },
+  "ashamed": {
+    "word": "ashamed",
+    "definition": "feeling bad or sorry because you did something wrong",
+    "variations": [
+      "ashamed"
+    ],
+    "emoji": "😔🙈",
+    "id": "gl025"
+  },
+  "away from": {
+    "word": "away from",
+    "definition": "to a position farther from someone or something",
+    "variations": [
+      "away from"
+    ],
+    "emoji": "↩️🚶",
+    "id": "gl026"
+  },
+  "basket": {
+    "word": "basket",
+    "definition": "a container used for carrying or holding things",
+    "variations": [
+      "basket",
+      "baskets"
+    ],
+    "emoji": "🧺",
+    "id": "gl027"
+  },
+  "beautiful": {
+    "word": "beautiful",
+    "definition": "nice to look at; very pleasing in appearance",
+    "variations": [
+      "beautiful",
+      "more beautiful",
+      "most beautiful"
+    ],
+    "emoji": "🏠🌸",
+    "id": "gl028"
+  },
+  "belong": {
+    "word": "belong",
+    "definition": "to be owned by someone or to be the right thing for someone",
+    "variations": [
+      "belong",
+      "belongs",
+      "belonged",
+      "belonging"
+    ],
+    "emoji": "🤝🏠",
+    "id": "gl029"
+  },
+  "below": {
+    "word": "below",
+    "definition": "at a lower level than something else",
+    "variations": [
+      "below"
+    ],
+    "emoji": "⬇️📍",
+    "id": "gl030"
+  },
+  "bench": {
+    "word": "bench",
+    "definition": "a long seat for more than one person",
+    "variations": [
+      "bench",
+      "benches"
+    ],
+    "emoji": "🪑🏞️",
+    "id": "gl031"
+  },
+  "beside": {
+    "word": "beside",
+    "definition": "at the side of; next to",
+    "variations": [
+      "beside"
+    ],
+    "emoji": "↔️👫",
+    "id": "gl032"
+  },
+  "between": {
+    "word": "between",
+    "definition": "in the space in the middle of two things",
+    "variations": [
+      "between"
+    ],
+    "emoji": "↔️📦",
+    "id": "gl033"
+  },
+  "blend": {
+    "word": "blend",
+    "definition": "to mix or join smoothly together",
+    "variations": [
+      "blend",
+      "blends",
+      "blended",
+      "blending"
+    ],
+    "emoji": "🌀🔗",
+    "id": "gl034"
+  },
+  "body": {
+    "word": "body",
+    "definition": "the main part of a note or letter where the message is written",
+    "variations": [
+      "body",
+      "bodies"
+    ],
+    "emoji": "📝📄",
+    "id": "gl035"
+  },
+  "bound": {
+    "word": "bound",
+    "definition": "tied or joined closely together",
+    "variations": [
+      "bound"
+    ],
+    "emoji": "🪢🤝",
+    "id": "gl036"
+  },
+  "breath": {
+    "word": "breath",
+    "definition": "the air taken in and sent out of the body when breathing",
+    "variations": [
+      "breath",
+      "breaths"
+    ],
+    "emoji": "🫁💨",
+    "id": "gl037"
+  },
+  "bridge": {
+    "word": "bridge",
+    "definition": "a structure built over a river, road, or gap so people can cross",
+    "variations": [
+      "bridge",
+      "bridges"
+    ],
+    "emoji": "🌉🚶",
+    "id": "gl038"
+  },
+  "camera": {
+    "word": "camera",
+    "definition": "a device used for taking photos or recording videos",
+    "variations": [
+      "camera",
+      "cameras"
+    ],
+    "emoji": "📷🎥",
+    "id": "gl039"
+  },
+  "character": {
+    "word": "character",
+    "definition": "a person or animal in a story, play, or poem",
+    "variations": [
+      "character",
+      "characters"
+    ],
+    "emoji": "🧑🎭",
+    "id": "gl040"
+  },
+  "characteristic": {
+    "word": "characteristic",
+    "definition": "a quality or feature that helps describe a person or thing",
+    "variations": [
+      "characteristic",
+      "characteristics"
+    ],
+    "emoji": "🧩📌",
+    "id": "gl041"
+  },
+  "choice": {
+    "word": "choice",
+    "definition": "a decision between two or more things",
+    "variations": [
+      "choice",
+      "choices"
+    ],
+    "emoji": "🤷✅",
+    "id": "gl042"
+  },
+  "closing": {
+    "word": "closing",
+    "definition": "the ending part of a note or letter",
+    "variations": [
+      "closing",
+      "closings"
+    ],
+    "emoji": "🔚✉️",
+    "id": "gl043"
+  },
+  "column": {
+    "word": "column",
+    "definition": "a vertical section in a table or on a page",
+    "variations": [
+      "column",
+      "columns"
+    ],
+    "emoji": "📊📄",
+    "id": "gl044"
+  },
+  "communicate": {
+    "word": "communicate",
+    "definition": "to share ideas, feelings, or information with other people",
+    "variations": [
+      "communicate",
+      "communicates",
+      "communicated",
+      "communicating",
+      "communication"
+    ],
+    "emoji": "🗣️💬",
+    "id": "gl045"
+  },
+  "community": {
+    "word": "community",
+    "definition": "a group of people living or working together in one place",
+    "variations": [
+      "community",
+      "communities"
+    ],
+    "emoji": "🏘️🤝",
+    "id": "gl046"
+  },
+  "comparative": {
+    "word": "comparative",
+    "definition": "a form of a word used to compare two things, like bigger or smaller",
+    "variations": [
+      "comparative",
+      "comparatives"
+    ],
+    "emoji": "📏2️⃣",
+    "id": "gl047"
+  },
+  "compare": {
+    "word": "compare",
+    "definition": "to look at two or more things to see how they are alike or different",
+    "variations": [
+      "compare",
+      "compares",
+      "compared",
+      "comparing"
+    ],
+    "emoji": "⚖️👀",
+    "id": "gl048"
+  },
+  "comparison": {
+    "word": "comparison",
+    "definition": "the act of looking at two or more things to see how they are alike or different",
+    "variations": [
+      "compare",
+      "compares",
+      "compared",
+      "comparing",
+      "comparison",
+      "comparisons"
+    ],
+    "emoji": "⚖️🔍",
+    "id": "gl049"
+  },
+  "competence": {
+    "word": "competence",
+    "definition": "the ability to do something well",
+    "variations": [
+      "competence",
+      "competences"
+    ],
+    "emoji": "💪🌟",
+    "id": "gl050"
+  },
+  "competences": {
+    "word": "competences",
+    "definition": "skills and abilities to do something well",
+    "variations": [
+      "competence",
+      "competences"
+    ],
+    "emoji": "🎯📘",
+    "id": "gl051"
+  },
+  "compile": {
+    "word": "compile",
+    "definition": "to collect and put things together into one list or book",
+    "variations": [
+      "compile",
+      "compiles",
+      "compiled",
+      "compiling"
+    ],
+    "emoji": "📋🧩",
+    "id": "gl052"
+  },
+  "completed action": {
+    "word": "completed action",
+    "definition": "an action that has already finished",
+    "variations": [
+      "completed actions"
+    ],
+    "emoji": "✅⏳",
+    "id": "gl053"
+  },
+  "complex sentence": {
+    "word": "complex sentence",
+    "definition": "a sentence that joins ideas to give fuller meaning",
+    "variations": [
+      "complex sentence",
+      "complex sentences"
+    ],
+    "emoji": "🧩📝",
+    "id": "gl054"
+  },
+  "components": {
+    "word": "components",
+    "definition": "the parts that make up something",
+    "variations": [
+      "component",
+      "components"
+    ],
+    "emoji": "🧩📄",
+    "id": "gl055"
+  },
+  "compound": {
+    "word": "compound",
+    "definition": "the open area around a house or building",
+    "variations": [
+      "compound",
+      "compounds"
+    ],
+    "emoji": "🏡🌼",
+    "id": "gl056"
+  },
+  "comprehension": {
+    "word": "comprehension",
+    "definition": "the ability to understand something",
+    "variations": [
+      "comprehension"
+    ],
+    "emoji": "🧠👂",
+    "id": "gl057"
+  },
+  "concise": {
+    "word": "concise",
+    "definition": "short but clear, using only the necessary words",
+    "variations": [
+      "concise",
+      "concisely"
+    ],
+    "emoji": "✍️📄",
+    "id": "gl058"
+  },
+  "condition": {
+    "word": "condition",
+    "definition": "a state or situation that affects something",
+    "variations": [
+      "condition",
+      "conditions"
+    ],
+    "emoji": "📌🔎",
+    "id": "gl059"
+  },
+  "confidently": {
+    "word": "confidently",
+    "definition": "in a way that shows you are sure of yourself",
+    "variations": [
+      "confidently",
+      "confident"
+    ],
+    "emoji": "😌💪",
+    "id": "gl060"
+  },
+  "conjunction": {
+    "word": "conjunction",
+    "definition": "a word that joins words, phrases, or sentences together",
+    "variations": [
+      "conjunction",
+      "conjunctions"
+    ],
+    "emoji": "🔗📝",
+    "id": "gl061"
+  },
+  "connect": {
+    "word": "connect",
+    "definition": "to join or link one thing to another",
+    "variations": [
+      "connect",
+      "connects",
+      "connected",
+      "connecting"
+    ],
+    "emoji": "🔗🤝",
+    "id": "gl062"
+  },
+  "connected speech": {
+    "word": "connected speech",
+    "definition": "the way words join together when people speak naturally and quickly",
+    "variations": [
+      "connected speech"
+    ],
+    "emoji": "🔗🗣️",
+    "id": "gl063"
+  },
+  "consequence": {
+    "word": "consequence",
+    "definition": "a result that comes after an action or decision",
+    "variations": [
+      "consequence",
+      "consequences"
+    ],
+    "emoji": "➡️⚠️",
+    "id": "gl064"
+  },
+  "context": {
+    "word": "context",
+    "definition": "the situation or setting in which something happens or is used",
+    "variations": [
+      "context",
+      "contexts"
+    ],
+    "emoji": "🌍🧩",
+    "id": "gl065"
+  },
+  "continue": {
+    "word": "continue",
+    "definition": "to keep going without stopping",
+    "variations": [
+      "continue",
+      "continued",
+      "continues",
+      "continuing"
+    ],
+    "emoji": "➡️⏱️",
+    "id": "gl066"
+  },
+  "conversation": {
+    "word": "conversation",
+    "definition": "a talk between two or more people",
+    "variations": [
+      "conversation",
+      "conversations"
+    ],
+    "emoji": "💬🗨️",
+    "id": "gl067"
+  },
+  "court of law": {
+    "word": "court of law",
+    "definition": "a place where legal cases are judged",
+    "variations": [
+      "courts of law"
+    ],
+    "emoji": "⚖️🏛️",
+    "id": "gl068"
+  },
+  "craft": {
+    "word": "craft",
+    "definition": "an object made by hand using skill and creativity",
+    "variations": [
+      "craft",
+      "crafts"
+    ],
+    "emoji": "✂️🎨",
+    "id": "gl069"
+  },
+  "creative process": {
+    "word": "creative process",
+    "definition": "the steps a person follows to make or design something new",
+    "variations": [
+      "creative process",
+      "creative processes"
+    ],
+    "emoji": "🎨💡",
+    "id": "gl070"
+  },
+  "creativity": {
+    "word": "creativity",
+    "definition": "the ability to make new and interesting ideas",
+    "variations": [
+      "creativity",
+      "creative"
+    ],
+    "emoji": "🎨💡",
+    "id": "gl071"
+  },
+  "criminal": {
+    "word": "criminal",
+    "definition": "a person who has done something against the law",
+    "variations": [
+      "criminal",
+      "criminals"
+    ],
+    "emoji": "🚔⚖️",
+    "id": "gl072"
+  },
+  "crossing": {
+    "word": "crossing",
+    "definition": "going from one side to the other side of a road or place",
+    "variations": [
+      "crossing",
+      "crossings",
+      "cross"
+    ],
+    "emoji": "🚶🛣️",
+    "id": "gl073"
+  },
+  "crouch": {
+    "word": "crouch",
+    "definition": "to bend down low close to the ground",
+    "variations": [
+      "crouch",
+      "crouched",
+      "crouches",
+      "crouching"
+    ],
+    "emoji": "🧎⬇️",
+    "id": "gl074"
+  },
+  "curious": {
+    "word": "curious",
+    "definition": "wanting to know or learn more about something",
+    "variations": [
+      "curious"
+    ],
+    "emoji": "🤔👀",
+    "id": "gl075"
+  },
+  "current": {
+    "word": "current",
+    "definition": "happening now or belonging to the present time",
+    "variations": [
+      "current"
+    ],
+    "emoji": "⏰📍",
+    "id": "gl076"
+  },
+  "denominator": {
+    "word": "denominator",
+    "definition": "the bottom number in a fraction that shows how many equal parts there are",
+    "variations": [
+      "denominator",
+      "denominators"
+    ],
+    "emoji": "🔢➗",
+    "id": "gl077"
+  },
+  "deny": {
+    "word": "deny",
+    "definition": "to say that something is not true or that you did not do it",
+    "variations": [
+      "deny",
+      "denies",
+      "denied",
+      "denying"
+    ],
+    "emoji": "🙅❌",
+    "id": "gl078"
+  },
+  "describe": {
+    "word": "describe",
+    "definition": "to say what someone or something is like",
+    "variations": [
+      "describe",
+      "describes",
+      "described",
+      "describing",
+      "description"
+    ],
+    "emoji": "🖼️🗣️",
+    "id": "gl079"
+  },
+  "dialogue": {
+    "word": "dialogue",
+    "definition": "a conversation between two or more people",
+    "variations": [
+      "dialogue",
+      "dialogues"
+    ],
+    "emoji": "💬👥",
+    "id": "gl080"
+  },
+  "difference": {
+    "word": "difference",
+    "definition": "the way in which things are not the same",
+    "variations": [
+      "difference",
+      "differences"
+    ],
+    "emoji": "↔️🔍",
+    "id": "gl081"
+  },
+  "direction": {
+    "word": "direction",
+    "definition": "the way something moves or points",
+    "variations": [
+      "direction",
+      "directions"
+    ],
+    "emoji": "🧭➡️",
+    "id": "gl082"
+  },
+  "disagreed": {
+    "word": "disagreed",
+    "definition": "had a different opinion and did not agree",
+    "variations": [
+      "disagree",
+      "disagrees",
+      "disagreed",
+      "disagreeing"
+    ],
+    "emoji": "🗣️↔️",
+    "id": "gl083"
+  },
+  "disappointed": {
+    "word": "disappointed",
+    "definition": "feeling unhappy because something was not as good as expected",
+    "variations": [
+      "disappoint",
+      "disappointed",
+      "disappointing",
+      "disappointment"
+    ],
+    "emoji": "😞💔",
+    "id": "gl084"
+  },
+  "discharged": {
+    "word": "discharged",
+    "definition": "allowed to leave hospital after getting better",
+    "variations": [
+      "discharged",
+      "discharge"
+    ],
+    "emoji": "🏥✅",
+    "id": "gl085"
+  },
+  "display": {
+    "word": "display",
+    "definition": "to put something where people can easily see it",
+    "variations": [
+      "display",
+      "displays",
+      "displayed"
+    ],
+    "emoji": "🖼️👀",
+    "id": "gl086"
+  },
+  "district": {
+    "word": "district",
+    "definition": "an area or part of a country, town, or region",
+    "variations": [
+      "district",
+      "districts"
+    ],
+    "emoji": "🗺️",
+    "id": "gl087"
+  },
+  "doer": {
+    "word": "doer",
+    "definition": "the person or thing that performs an action",
+    "variations": [
+      "doer",
+      "doers"
+    ],
+    "emoji": "👤💪",
+    "id": "gl088"
+  },
+  "drafting": {
+    "word": "drafting",
+    "definition": "writing the first version of something",
+    "variations": [
+      "draft",
+      "drafts",
+      "drafted",
+      "drafting"
+    ],
+    "emoji": "✍️📝",
+    "id": "gl089"
+  },
+  "drop": {
+    "word": "drop",
+    "definition": "to leave out a sound or part when speaking",
+    "variations": [
+      "drop",
+      "drops",
+      "dropped",
+      "dropping"
+    ],
+    "emoji": "➖🗣️",
+    "id": "gl090"
+  },
+  "drowning": {
+    "word": "drowning",
+    "definition": "unable to breathe because of being under water",
+    "variations": [
+      "drown",
+      "drowns",
+      "drowned",
+      "drowning"
+    ],
+    "emoji": "💧😨",
+    "id": "gl091"
+  },
+  "edit": {
+    "word": "edit",
+    "definition": "to check and improve writing by correcting mistakes or changing parts",
+    "variations": [
+      "edit",
+      "edits",
+      "edited",
+      "editing"
+    ],
+    "emoji": "✏️📄",
+    "id": "gl092"
+  },
+  "editing": {
+    "word": "editing",
+    "definition": "checking and correcting writing to improve it",
+    "variations": [
+      "edit",
+      "edits",
+      "edited",
+      "editing"
+    ],
+    "emoji": "✏️📄",
+    "id": "gl093"
+  },
+  "effectively": {
+    "word": "effectively",
+    "definition": "in a way that works well and gives good results",
+    "variations": [
+      "effective",
+      "effectively",
+      "effectiveness"
+    ],
+    "emoji": "✅🎯",
+    "id": "gl094"
+  },
+  "either...or": {
+    "word": "either...or",
+    "definition": "a phrase used to show a choice between two things",
+    "variations": [
+      "either...or"
+    ],
+    "emoji": "↔️✅",
+    "id": "gl095"
+  },
+  "electronic device": {
+    "word": "electronic device",
+    "definition": "a machine that works using electricity or batteries, like a radio or phone",
+    "variations": [
+      "electronic device",
+      "electronic devices"
+    ],
+    "emoji": "📱🔌",
+    "id": "gl096"
+  },
+  "employment": {
+    "word": "employment",
+    "definition": "work that a person does for pay",
+    "variations": [
+      "employment"
+    ],
+    "emoji": "💼🧑‍🏭",
+    "id": "gl097"
+  },
+  "encouragement": {
+    "word": "encouragement",
+    "definition": "words or actions that give someone confidence or hope",
+    "variations": [
+      "encouragement",
+      "encouragements",
+      "encourage",
+      "encouraged",
+      "encouraging"
+    ],
+    "emoji": "👏💪",
+    "id": "gl098"
+  },
+  "enrich": {
+    "word": "enrich",
+    "definition": "to improve something by adding more value or variety",
+    "variations": [
+      "enrich",
+      "enriches",
+      "enriched",
+      "enriching"
+    ],
+    "emoji": "✨📚",
+    "id": "gl099"
+  },
+  "equally": {
+    "word": "equally",
+    "definition": "in the same way or in equal amounts",
+    "variations": [
+      "equal",
+      "equally"
+    ],
+    "emoji": "⚖️🤝",
+    "id": "gl100"
+  },
+  "event": {
+    "word": "event",
+    "definition": "something that happens",
+    "variations": [
+      "event",
+      "events"
+    ],
+    "emoji": "📅✨",
+    "id": "gl101"
+  },
+  "evidence": {
+    "word": "evidence",
+    "definition": "facts or things that show what is true",
+    "variations": [
+      "evidence"
+    ],
+    "emoji": "🔍📂",
+    "id": "gl102"
+  },
+  "exciting": {
+    "word": "exciting",
+    "definition": "making you feel happy, interested, or eager",
+    "variations": [
+      "exciting",
+      "excited"
+    ],
+    "emoji": "🎉✨",
+    "id": "gl103"
+  },
+  "exercise": {
+    "word": "exercise",
+    "definition": "a task or activity done for practice or learning",
+    "variations": [
+      "exercise",
+      "exercises"
+    ],
+    "emoji": "✍️📚",
+    "id": "gl104"
+  },
+  "express": {
+    "word": "express",
+    "definition": "to show or say your thoughts or feelings",
+    "variations": [
+      "express",
+      "expresses",
+      "expressed",
+      "expressing",
+      "expression"
+    ],
+    "emoji": "🗣️😊",
+    "id": "gl105"
+  },
+  "fact": {
+    "word": "fact",
+    "definition": "something that is true",
+    "variations": [
+      "fact",
+      "facts"
+    ],
+    "emoji": "✅📘",
+    "id": "gl106"
+  },
+  "false": {
+    "word": "false",
+    "definition": "not true",
+    "variations": [
+      "false"
+    ],
+    "emoji": "❌🚫",
+    "id": "gl107"
+  },
+  "fattter": {
+    "word": "fattter",
+    "definition": "having more body size or more fat than another person or animal",
+    "variations": [
+      "fat",
+      "fatter",
+      "fattest"
+    ],
+    "emoji": "👤⚖️",
+    "id": "gl108"
+  },
+  "feather": {
+    "word": "feather",
+    "definition": "one of the soft light parts that cover a bird’s body",
+    "variations": [
+      "feather",
+      "feathers"
+    ],
+    "emoji": "🪶🐦",
+    "id": "gl109"
+  },
+  "feature": {
+    "word": "feature",
+    "definition": "an important part or quality of something",
+    "variations": [
+      "feature",
+      "features"
+    ],
+    "emoji": "🔍⭐",
+    "id": "gl110"
+  },
+  "flow": {
+    "word": "flow",
+    "definition": "to move or continue smoothly without stopping",
+    "variations": [
+      "flow",
+      "flows",
+      "flowed",
+      "flowing"
+    ],
+    "emoji": "🌊➡️",
+    "id": "gl111"
+  },
+  "focus": {
+    "word": "focus",
+    "definition": "clear and sharp, not blurry; when the camera shows the subject clearly",
+    "variations": [
+      "focus",
+      "focused"
+    ],
+    "emoji": "🎯📷",
+    "id": "gl112"
+  },
+  "forest": {
+    "word": "forest",
+    "definition": "a large area covered with many trees",
+    "variations": [
+      "forest",
+      "forests"
+    ],
+    "emoji": "🌳🌲",
+    "id": "gl113"
+  },
+  "forgive": {
+    "word": "forgive",
+    "definition": "to stop being angry with someone after they have done something wrong",
+    "variations": [
+      "forgive",
+      "forgives",
+      "forgave",
+      "forgiven",
+      "forgiving"
+    ],
+    "emoji": "🤍🙏",
+    "id": "gl114"
+  },
+  "forgotten": {
+    "word": "forgotten",
+    "definition": "not remembered anymore",
+    "variations": [
+      "forget",
+      "forgets",
+      "forgot",
+      "forgotten",
+      "forgetting"
+    ],
+    "emoji": "🧠🌫️",
+    "id": "gl115"
+  },
+  "fraction": {
+    "word": "fraction",
+    "definition": "a number that shows equal parts of a whole, such as 1/2 or 3/4",
+    "variations": [
+      "fraction",
+      "fractions"
+    ],
+    "emoji": "➗🔢",
+    "id": "gl116"
+  },
+  "from": {
+    "word": "from",
+    "definition": "showing the place where someone or something starts",
+    "variations": [
+      "from"
+    ],
+    "emoji": "📍🚶",
+    "id": "gl117"
+  },
+  "fulfilled": {
+    "word": "fulfilled",
+    "definition": "did what was promised or expected",
+    "variations": [
+      "fulfil",
+      "fulfils",
+      "fulfilled",
+      "fulfilling"
+    ],
+    "emoji": "✅🤝",
+    "id": "gl118"
+  },
+  "gadget": {
+    "word": "gadget",
+    "definition": "a small useful device or tool, often electronic",
+    "variations": [
+      "gadget",
+      "gadgets"
+    ],
+    "emoji": "📱⚙️",
+    "id": "gl119"
+  },
+  "garden": {
+    "word": "garden",
+    "definition": "a piece of land where flowers, vegetables, or other plants are grown",
+    "variations": [
+      "garden",
+      "gardens"
+    ],
+    "emoji": "🌱🪴",
+    "id": "gl120"
+  },
+  "gathering": {
+    "word": "gathering",
+    "definition": "a meeting or event where people come together",
+    "variations": [
+      "gathering",
+      "gatherings",
+      "gather"
+    ],
+    "emoji": "👥🎊",
+    "id": "gl121"
+  },
+  "generous": {
+    "word": "generous",
+    "definition": "willing to give or share with others",
+    "variations": [
+      "generous"
+    ],
+    "emoji": "🤲❤️",
+    "id": "gl122"
+  },
+  "goal": {
+    "word": "goal",
+    "definition": "something a person wants to achieve",
+    "variations": [
+      "goal",
+      "goals"
+    ],
+    "emoji": "🎯✅",
+    "id": "gl123"
+  },
+  "government": {
+    "word": "government",
+    "definition": "the group of people who lead and manage a country",
+    "variations": [
+      "government",
+      "governments"
+    ],
+    "emoji": "🏛️🇹🇿",
+    "id": "gl124"
+  },
+  "gradually": {
+    "word": "gradually",
+    "definition": "slowly, little by little",
+    "variations": [
+      "gradually"
+    ],
+    "emoji": "🐢➡️",
+    "id": "gl125"
+  },
+  "graduation": {
+    "word": "graduation",
+    "definition": "the ceremony or time when someone finishes school or a course",
+    "variations": [
+      "graduation",
+      "graduations"
+    ],
+    "emoji": "🎓👏",
+    "id": "gl126"
+  },
+  "grammatical": {
+    "word": "grammatical",
+    "definition": "related to the rules of a language",
+    "variations": [
+      "grammatical",
+      "grammar"
+    ],
+    "emoji": "📚✍️",
+    "id": "gl127"
+  },
+  "grateful": {
+    "word": "grateful",
+    "definition": "feeling thankful",
+    "variations": [
+      "grateful"
+    ],
+    "emoji": "🙏😊",
+    "id": "gl128"
+  },
+  "gratitude": {
+    "word": "gratitude",
+    "definition": "the feeling of being thankful for something someone has done",
+    "variations": [
+      "gratitude"
+    ],
+    "emoji": "🙏😊",
+    "id": "gl129"
+  },
+  "greeting": {
+    "word": "greeting",
+    "definition": "the polite words you use at the beginning of a note or letter",
+    "variations": [
+      "greeting",
+      "greetings"
+    ],
+    "emoji": "👋✉️",
+    "id": "gl130"
+  },
+  "guard": {
+    "word": "guard",
+    "definition": "a person who protects people or a place",
+    "variations": [
+      "guard",
+      "guards"
+    ],
+    "emoji": "🛡️👮",
+    "id": "gl131"
+  },
+  "guidance": {
+    "word": "guidance",
+    "definition": "help or advice that shows someone what to do",
+    "variations": [
+      "guidance",
+      "guide",
+      "guides",
+      "guided"
+    ],
+    "emoji": "🧭🤲",
+    "id": "gl132"
+  },
+  "guide": {
+    "word": "guide",
+    "definition": "to show someone the way or help them know what to do",
+    "variations": [
+      "guide",
+      "guides",
+      "guided",
+      "guiding"
+    ],
+    "emoji": "🧭👣",
+    "id": "gl133"
+  },
+  "harvested": {
+    "word": "harvested",
+    "definition": "picked or collected when a crop is ready",
+    "variations": [
+      "harvest",
+      "harvested",
+      "harvesting"
+    ],
+    "emoji": "🎃🌾",
+    "id": "gl134"
+  },
+  "hereditary": {
+    "word": "hereditary",
+    "definition": "passed from parents to children through genes",
+    "variations": [
+      "hereditary"
+    ],
+    "emoji": "🧬👨‍👩‍👧‍👦",
+    "id": "gl135"
+  },
+  "hint": {
+    "word": "hint",
+    "definition": "a small piece of help or information that makes something easier",
+    "variations": [
+      "hint",
+      "hints"
+    ],
+    "emoji": "💡👉",
+    "id": "gl136"
+  },
+  "homework": {
+    "word": "homework",
+    "definition": "school work that a learner does at home",
+    "variations": [
+      "homework"
+    ],
+    "emoji": "📚✏️",
+    "id": "gl137"
+  },
+  "honest": {
+    "word": "honest",
+    "definition": "truthful and not hiding the truth",
+    "variations": [
+      "honest",
+      "honestly"
+    ],
+    "emoji": "🙂✅",
+    "id": "gl138"
+  },
+  "hospital": {
+    "word": "hospital",
+    "definition": "a place where sick or injured people go for treatment",
+    "variations": [
+      "hospital",
+      "hospitals"
+    ],
+    "emoji": "🏥🩺",
+    "id": "gl139"
+  },
+  "idea": {
+    "word": "idea",
+    "definition": "a thought, plan, or understanding in the mind",
+    "variations": [
+      "idea",
+      "ideas"
+    ],
+    "emoji": "💡",
+    "id": "gl140"
+  },
+  "identical": {
+    "word": "identical",
+    "definition": "exactly the same",
+    "variations": [
+      "identical"
+    ],
+    "emoji": "🟰👯",
+    "id": "gl141"
+  },
+  "imagination": {
+    "word": "imagination",
+    "definition": "the ability to form ideas and pictures in your mind",
+    "variations": [
+      "imagination",
+      "imaginations"
+    ],
+    "emoji": "🌈🧠",
+    "id": "gl142"
+  },
+  "imply": {
+    "word": "imply",
+    "definition": "to suggest something without saying it directly",
+    "variations": [
+      "imply",
+      "implies",
+      "implied",
+      "implying"
+    ],
+    "emoji": "💭➡️",
+    "id": "gl143"
+  },
+  "in": {
+    "word": "in",
+    "definition": "inside something",
+    "variations": [
+      "in"
+    ],
+    "emoji": "📦🔑",
+    "id": "gl144"
+  },
+  "insert": {
+    "word": "insert",
+    "definition": "to put something into something else",
+    "variations": [
+      "insert",
+      "inserts",
+      "inserted",
+      "inserting"
+    ],
+    "emoji": "➕🔤",
+    "id": "gl145"
+  },
+  "inspire": {
+    "word": "inspire",
+    "definition": "to make someone feel excited to do or create something",
+    "variations": [
+      "inspire",
+      "inspires",
+      "inspired",
+      "inspiring"
+    ],
+    "emoji": "💡🌟",
+    "id": "gl146"
+  },
+  "instruction": {
+    "word": "instruction",
+    "definition": "something that tells you what to do or how to do something",
+    "variations": [
+      "instruction",
+      "instructions"
+    ],
+    "emoji": "📋👂",
+    "id": "gl147"
+  },
+  "intended": {
+    "word": "intended",
+    "definition": "planned or meant",
+    "variations": [
+      "intended"
+    ],
+    "emoji": "🎯💡",
+    "id": "gl148"
+  },
+  "interpreting": {
+    "word": "interpreting",
+    "definition": "understanding and explaining the meaning of something",
+    "variations": [
+      "interpret",
+      "interprets",
+      "interpreted",
+      "interpreting"
+    ],
+    "emoji": "🧠💬",
+    "id": "gl149"
+  },
+  "interview": {
+    "word": "interview",
+    "definition": "a formal talk where questions are asked and answered",
+    "variations": [
+      "interview",
+      "interviews"
+    ],
+    "emoji": "🎤💬",
+    "id": "gl150"
+  },
+  "into": {
+    "word": "into",
+    "definition": "to the inside of something",
+    "variations": [
+      "into"
+    ],
+    "emoji": "📦➡️",
+    "id": "gl151"
+  },
+  "invitation": {
+    "word": "invitation",
+    "definition": "a spoken or written request asking someone to come to an event",
+    "variations": [
+      "invitation",
+      "invitations",
+      "invite",
+      "invited"
+    ],
+    "emoji": "💌🎉",
+    "id": "gl152"
+  },
+  "issue": {
+    "word": "issue",
+    "definition": "an important subject, matter, or problem being talked about",
+    "variations": [
+      "issue",
+      "issues"
+    ],
+    "emoji": "❗💭",
+    "id": "gl153"
+  },
+  "journal": {
+    "word": "journal",
+    "definition": "a book or notebook where someone writes their thoughts, feelings, or experiences",
+    "variations": [
+      "journal",
+      "journals"
+    ],
+    "emoji": "📔✍️",
+    "id": "gl154"
+  },
+  "judge": {
+    "word": "judge",
+    "definition": "to decide or form an opinion about something",
+    "variations": [
+      "judge",
+      "judges",
+      "judged",
+      "judging"
+    ],
+    "emoji": "⚖️🤔",
+    "id": "gl155"
+  },
+  "kind": {
+    "word": "kind",
+    "definition": "good to others and caring",
+    "variations": [
+      "kind",
+      "kinder",
+      "kindest"
+    ],
+    "emoji": "💖🤗",
+    "id": "gl156"
+  },
+  "kindness": {
+    "word": "kindness",
+    "definition": "the quality of being caring and helpful",
+    "variations": [
+      "kindness",
+      "kind"
+    ],
+    "emoji": "💖😊",
+    "id": "gl157"
+  },
+  "kitchen": {
+    "word": "kitchen",
+    "definition": "the room where food is cooked",
+    "variations": [
+      "kitchen",
+      "kitchens"
+    ],
+    "emoji": "🍲🏠",
+    "id": "gl158"
+  },
+  "knob": {
+    "word": "knob",
+    "definition": "a round part you turn to control something on a device",
+    "variations": [
+      "knob",
+      "knobs"
+    ],
+    "emoji": "🎛️",
+    "id": "gl159"
+  },
+  "leopard": {
+    "word": "leopard",
+    "definition": "a large wild cat with dark spots on its body",
+    "variations": [
+      "leopard",
+      "leopards"
+    ],
+    "emoji": "🐆",
+    "id": "gl160"
+  },
+  "less than": {
+    "word": "less than",
+    "definition": "a phrase used to compare and show a smaller number or amount",
+    "variations": [
+      "less than"
+    ],
+    "emoji": "➖🔢",
+    "id": "gl161"
+  },
+  "lesson": {
+    "word": "lesson",
+    "definition": "something important that you learn from an experience or story",
+    "variations": [
+      "lesson",
+      "lessons"
+    ],
+    "emoji": "📘💡",
+    "id": "gl162"
+  },
+  "limitation": {
+    "word": "limitation",
+    "definition": "something that restricts what can be done",
+    "variations": [
+      "limitation",
+      "limitations"
+    ],
+    "emoji": "⛔📏",
+    "id": "gl163"
+  },
+  "link": {
+    "word": "link",
+    "definition": "to join one word or sound to another in speech",
+    "variations": [
+      "link",
+      "links",
+      "linked",
+      "linking"
+    ],
+    "emoji": "🔗➡️",
+    "id": "gl164"
+  },
+  "location": {
+    "word": "location",
+    "definition": "the place where someone or something is",
+    "variations": [
+      "location",
+      "locations",
+      "locate",
+      "located"
+    ],
+    "emoji": "📍🗺️",
+    "id": "gl165"
+  },
+  "longest": {
+    "word": "longest",
+    "definition": "having greater length than all the others",
+    "variations": [
+      "long",
+      "longer",
+      "longest"
+    ],
+    "emoji": "📏✏️",
+    "id": "gl166"
+  },
+  "loud": {
+    "word": "loud",
+    "definition": "making a strong sound that is easy to hear",
+    "variations": [
+      "loud",
+      "louder",
+      "loudest"
+    ],
+    "emoji": "🔊📣",
+    "id": "gl167"
+  },
+  "lump": {
+    "word": "lump",
+    "definition": "a small hard piece in something that should be smooth",
+    "variations": [
+      "lump",
+      "lumps"
+    ],
+    "emoji": "⚪🥣",
+    "id": "gl168"
+  },
+  "main idea": {
+    "word": "main idea",
+    "definition": "the most important point or message in a story or text",
+    "variations": [
+      "main idea",
+      "main ideas"
+    ],
+    "emoji": "🧠📖",
+    "id": "gl169"
+  },
+  "maize": {
+    "word": "maize",
+    "definition": "a crop with yellow or white grains; corn",
+    "variations": [
+      "maize"
+    ],
+    "emoji": "🌽",
+    "id": "gl170"
+  },
+  "marble": {
+    "word": "marble",
+    "definition": "a small hard ball, often made of glass, used in games",
+    "variations": [
+      "marble",
+      "marbles"
+    ],
+    "emoji": "🔵🎲",
+    "id": "gl171"
+  },
+  "meaningful": {
+    "word": "meaningful",
+    "definition": "having an important or clear meaning",
+    "variations": [
+      "meaningful"
+    ],
+    "emoji": "💡📝",
+    "id": "gl172"
+  },
+  "memorable": {
+    "word": "memorable",
+    "definition": "easy to remember because it is special or important",
+    "variations": [
+      "memorable"
+    ],
+    "emoji": "⭐🧠",
+    "id": "gl173"
+  },
+  "memorise": {
+    "word": "memorise",
+    "definition": "to learn something so that you can remember it exactly",
+    "variations": [
+      "memorise",
+      "memorises",
+      "memorised",
+      "memorising"
+    ],
+    "emoji": "🧠📖",
+    "id": "gl174"
+  },
+  "message": {
+    "word": "message",
+    "definition": "information sent or given to someone",
+    "variations": [
+      "message",
+      "messages"
+    ],
+    "emoji": "💬📨",
+    "id": "gl175"
+  },
+  "messy": {
+    "word": "messy",
+    "definition": "untidy or not clean and orderly",
+    "variations": [
+      "messy",
+      "messier",
+      "messiest"
+    ],
+    "emoji": "🌀🧺",
+    "id": "gl176"
+  },
+  "metaphor": {
+    "word": "metaphor",
+    "definition": "a way of saying one thing is another to show a strong comparison, without using 'like' or 'as'",
+    "variations": [
+      "metaphor",
+      "metaphors"
+    ],
+    "emoji": "🧠🔄",
+    "id": "gl177"
+  },
+  "mixture": {
+    "word": "mixture",
+    "definition": "something made by putting different things together",
+    "variations": [
+      "mixture",
+      "mixtures"
+    ],
+    "emoji": "🥣🔄",
+    "id": "gl178"
+  },
+  "more than": {
+    "word": "more than",
+    "definition": "a phrase used to compare and show a bigger number or amount",
+    "variations": [
+      "more than"
+    ],
+    "emoji": "➕🔢",
+    "id": "gl179"
+  },
+  "motorcycle": {
+    "word": "motorcycle",
+    "definition": "a two-wheeled vehicle with an engine",
+    "variations": [
+      "motorcycle",
+      "motorcycles"
+    ],
+    "emoji": "🏍️",
+    "id": "gl180"
+  },
+  "movement": {
+    "word": "movement",
+    "definition": "the act of going from one place to another",
+    "variations": [
+      "movement",
+      "movements",
+      "move",
+      "moves",
+      "moving"
+    ],
+    "emoji": "🚶➡️",
+    "id": "gl181"
+  },
+  "muddy": {
+    "word": "muddy",
+    "definition": "covered with or full of wet dirt",
+    "variations": [
+      "muddy"
+    ],
+    "emoji": "🟤💧",
+    "id": "gl182"
+  },
+  "multiplication": {
+    "word": "multiplication",
+    "definition": "the process of adding the same number again and again; one way of calculating in mathematics",
+    "variations": [
+      "multiplication",
+      "multiplications",
+      "multiply",
+      "multiplied"
+    ],
+    "emoji": "✖️🔢",
+    "id": "gl183"
+  },
+  "murdered": {
+    "word": "murdered",
+    "definition": "killed unlawfully on purpose",
+    "variations": [
+      "murder",
+      "murders",
+      "murdered",
+      "murdering"
+    ],
+    "emoji": "⚖️🚫",
+    "id": "gl184"
+  },
+  "myth": {
+    "word": "myth",
+    "definition": "an idea or story that many people believe but that may not be true",
+    "variations": [
+      "myth",
+      "myths"
+    ],
+    "emoji": "📖❓",
+    "id": "gl185"
+  },
+  "naturally": {
+    "word": "naturally",
+    "definition": "in a normal and easy way, not forced",
+    "variations": [
+      "naturally"
+    ],
+    "emoji": "🙂🗣️",
+    "id": "gl186"
+  },
+  "nature": {
+    "word": "nature",
+    "definition": "the physical world, including plants, animals, land, and weather",
+    "variations": [
+      "nature"
+    ],
+    "emoji": "🌿🌍",
+    "id": "gl187"
+  },
+  "neat": {
+    "word": "neat",
+    "definition": "clean, tidy, and carefully done",
+    "variations": [
+      "neat",
+      "neatly"
+    ],
+    "emoji": "✨📝",
+    "id": "gl188"
+  },
+  "negative alternative": {
+    "word": "negative alternative",
+    "definition": "one of two choices where both are said not to happen or not to be true",
+    "variations": [
+      "negative alternative",
+      "negative alternatives"
+    ],
+    "emoji": "❌↔️",
+    "id": "gl189"
+  },
+  "negative form": {
+    "word": "negative form",
+    "definition": "the form of a sentence that shows something did not happen or is not true",
+    "variations": [
+      "negative forms"
+    ],
+    "emoji": "➖✍️",
+    "id": "gl190"
+  },
+  "neighbourhood": {
+    "word": "neighbourhood",
+    "definition": "the area where people live near one another",
+    "variations": [
+      "neighbourhood",
+      "neighbourhoods"
+    ],
+    "emoji": "🏘️📍",
+    "id": "gl191"
+  },
+  "neither...nor": {
+    "word": "neither...nor",
+    "definition": "a phrase used to show that both things are not true or do not happen",
+    "variations": [
+      "neither...nor"
+    ],
+    "emoji": "❌❌🔗",
+    "id": "gl192"
+  },
+  "note": {
+    "word": "note",
+    "definition": "a short written message",
+    "variations": [
+      "note",
+      "notes"
+    ],
+    "emoji": "📝✉️",
+    "id": "gl193"
+  },
+  "noun": {
+    "word": "noun",
+    "definition": "a naming word for a person, place, thing, or idea",
+    "variations": [
+      "nouns"
+    ],
+    "emoji": "📘🏷️",
+    "id": "gl194"
+  },
+  "offence": {
+    "word": "offence",
+    "definition": "an act that breaks a law or rule",
+    "variations": [
+      "offence",
+      "offences"
+    ],
+    "emoji": "⚖️🚫",
+    "id": "gl195"
+  },
+  "on": {
+    "word": "on",
+    "definition": "touching the top surface of something",
+    "variations": [
+      "on"
+    ],
+    "emoji": "📘🖊️",
+    "id": "gl196"
+  },
+  "onto": {
+    "word": "onto",
+    "definition": "to a position on the top of something",
+    "variations": [
+      "onto"
+    ],
+    "emoji": "⬆️🪑",
+    "id": "gl197"
+  },
+  "opposite": {
+    "word": "opposite",
+    "definition": "completely different from something else",
+    "variations": [
+      "opposite",
+      "opposites"
+    ],
+    "emoji": "↔️🔄",
+    "id": "gl198"
+  },
+  "oral": {
+    "word": "oral",
+    "definition": "spoken, not written",
+    "variations": [
+      "oral"
+    ],
+    "emoji": "🗣️👂",
+    "id": "gl199"
+  },
+  "organise": {
+    "word": "organise",
+    "definition": "to arrange things in a clear and proper way",
+    "variations": [
+      "organise",
+      "organised",
+      "organising",
+      "organises"
+    ],
+    "emoji": "🗂️📚",
+    "id": "gl200"
+  },
+  "organism": {
+    "word": "organism",
+    "definition": "a living thing, such as a person, animal, or plant",
+    "variations": [
+      "organism",
+      "organisms"
+    ],
+    "emoji": "🦁🌱",
+    "id": "gl201"
+  },
+  "oven": {
+    "word": "oven",
+    "definition": "a kitchen machine or space used for baking or cooking food with heat",
+    "variations": [
+      "oven",
+      "ovens"
+    ],
+    "emoji": "🔥🍰",
+    "id": "gl202"
+  },
+  "ownership": {
+    "word": "ownership",
+    "definition": "the fact of having or owning something",
+    "variations": [
+      "ownership"
+    ],
+    "emoji": "🧾🏠",
+    "id": "gl203"
+  },
+  "participation": {
+    "word": "participation",
+    "definition": "the act of taking part in something",
+    "variations": [
+      "participation",
+      "participations",
+      "participate",
+      "participated",
+      "participating"
+    ],
+    "emoji": "🙋🤝",
+    "id": "gl204"
+  },
+  "passage": {
+    "word": "passage",
+    "definition": "a short piece of writing to read",
+    "variations": [
+      "passage",
+      "passages"
+    ],
+    "emoji": "📄📖",
+    "id": "gl205"
+  },
+  "passer-by": {
+    "word": "passer-by",
+    "definition": "a person who is going past a place",
+    "variations": [
+      "passer-by",
+      "passers-by"
+    ],
+    "emoji": "🚶👀",
+    "id": "gl206"
+  },
+  "passive voice": {
+    "word": "passive voice",
+    "definition": "a sentence form where the receiver of the action comes first",
+    "variations": [
+      "passive voice",
+      "passive voices"
+    ],
+    "emoji": "⬅️🗣️",
+    "id": "gl207"
+  },
+  "past": {
+    "word": "past",
+    "definition": "the time that has already gone by",
+    "variations": [
+      "past"
+    ],
+    "emoji": "⬅️🕰️",
+    "id": "gl208"
+  },
+  "path": {
+    "word": "path",
+    "definition": "a small track or way that people walk on",
+    "variations": [
+      "path",
+      "paths"
+    ],
+    "emoji": "🛤️🚶",
+    "id": "gl209"
+  },
+  "personification": {
+    "word": "personification",
+    "definition": "a way of giving human actions or feelings to animals, objects, or nature",
+    "variations": [
+      "personification",
+      "personifications"
+    ],
+    "emoji": "🌞😊",
+    "id": "gl210"
+  },
+  "phrase": {
+    "word": "phrase",
+    "definition": "a small group of words that belong together",
+    "variations": [
+      "phrase",
+      "phrases"
+    ],
+    "emoji": "💬📘",
+    "id": "gl211"
+  },
+  "pigmentation": {
+    "word": "pigmentation",
+    "definition": "the natural colouring of skin, hair, or eyes",
+    "variations": [
+      "pigmentation"
+    ],
+    "emoji": "🎨🧬",
+    "id": "gl212"
+  },
+  "planning": {
+    "word": "planning",
+    "definition": "thinking about what you will do before you start",
+    "variations": [
+      "plan",
+      "plans",
+      "planned",
+      "planning"
+    ],
+    "emoji": "📋🧠",
+    "id": "gl213"
+  },
+  "plot": {
+    "word": "plot",
+    "definition": "a piece of land",
+    "variations": [
+      "plot",
+      "plots"
+    ],
+    "emoji": "📍🌍",
+    "id": "gl214"
+  },
+  "poem": {
+    "word": "poem",
+    "definition": "a piece of writing that uses carefully chosen words to express ideas or feelings",
+    "variations": [
+      "poem",
+      "poems"
+    ],
+    "emoji": "📝🎵",
+    "id": "gl215"
+  },
+  "polite": {
+    "word": "polite",
+    "definition": "showing good manners and respect",
+    "variations": [
+      "polite",
+      "politely"
+    ],
+    "emoji": "🙏😊",
+    "id": "gl216"
+  },
+  "possess": {
+    "word": "possess",
+    "definition": "to have or own something",
+    "variations": [
+      "possess",
+      "possesses",
+      "possessed",
+      "possessing"
+    ],
+    "emoji": "🖐️📦",
+    "id": "gl217"
+  },
+  "possession": {
+    "word": "possession",
+    "definition": "the state of owning or having something",
+    "variations": [
+      "possession",
+      "possessions"
+    ],
+    "emoji": "🖐️📘",
+    "id": "gl218"
+  },
+  "possessive adjective": {
+    "word": "possessive adjective",
+    "definition": "a word used before a noun to show ownership, such as my, your, or their",
+    "variations": [
+      "possessive adjective",
+      "possessive adjectives"
+    ],
+    "emoji": "🏷️📖",
+    "id": "gl219"
+  },
+  "possessive pronoun": {
+    "word": "possessive pronoun",
+    "definition": "a word that shows ownership without repeating the noun, such as mine, yours, or theirs",
+    "variations": [
+      "possessive pronoun",
+      "possessive pronouns"
+    ],
+    "emoji": "🔤👤",
+    "id": "gl220"
+  },
+  "power button": {
+    "word": "power button",
+    "definition": "the button you press to turn a device on or off",
+    "variations": [
+      "power button",
+      "power buttons"
+    ],
+    "emoji": "🔘⚡",
+    "id": "gl221"
+  },
+  "powerful": {
+    "word": "powerful",
+    "definition": "having great strength or strong effect",
+    "variations": [
+      "powerful",
+      "powerfully"
+    ],
+    "emoji": "💪⚡",
+    "id": "gl222"
+  },
+  "practise": {
+    "word": "practise",
+    "definition": "to do something again and again so you can do it better",
+    "variations": [
+      "practise",
+      "practises",
+      "practised",
+      "practising"
+    ],
+    "emoji": "🔁✍️",
+    "id": "gl223"
+  },
+  "precisely": {
+    "word": "precisely",
+    "definition": "exactly and clearly",
+    "variations": [
+      "precisely"
+    ],
+    "emoji": "🎯✅",
+    "id": "gl224"
+  },
+  "prepared": {
+    "word": "prepared",
+    "definition": "ready for something",
+    "variations": [
+      "prepare",
+      "prepared",
+      "prepares",
+      "preparing"
+    ],
+    "emoji": "✅🧠",
+    "id": "gl225"
+  },
+  "preposition": {
+    "word": "preposition",
+    "definition": "a word that shows place, time, or direction, such as in, on, or under",
+    "variations": [
+      "preposition",
+      "prepositions"
+    ],
+    "emoji": "📝📍",
+    "id": "gl226"
+  },
+  "present": {
+    "word": "present",
+    "definition": "the time happening now",
+    "variations": [
+      "present"
+    ],
+    "emoji": "🕒📍",
+    "id": "gl227"
+  },
+  "produce": {
+    "word": "produce",
+    "definition": "to make or create something",
+    "variations": [
+      "produce",
+      "produces",
+      "produced",
+      "producing"
+    ],
+    "emoji": "🏭📘",
+    "id": "gl228"
+  },
+  "promise": {
+    "word": "promise",
+    "definition": "to say that you will surely do something",
+    "variations": [
+      "promise",
+      "promises",
+      "promised",
+      "promising"
+    ],
+    "emoji": "🤝✅",
+    "id": "gl229"
+  },
+  "pronoun": {
+    "word": "pronoun",
+    "definition": "a word used in place of a noun, like he, she, it, or they",
+    "variations": [
+      "pronouns"
+    ],
+    "emoji": "🔤📝",
+    "id": "gl230"
+  },
+  "pronounce": {
+    "word": "pronounce",
+    "definition": "to say a word or sound in a particular way",
+    "variations": [
+      "pronounce",
+      "pronounces",
+      "pronounced",
+      "pronouncing",
+      "pronunciation"
+    ],
+    "emoji": "👄🔊",
+    "id": "gl231"
+  },
+  "punctuation": {
+    "word": "punctuation",
+    "definition": "marks used in writing, such as full stops, commas, and question marks",
+    "variations": [
+      "punctuation"
+    ],
+    "emoji": "❗✍️",
+    "id": "gl232"
+  },
+  "pupil": {
+    "word": "pupil",
+    "definition": "a child who is learning in school",
+    "variations": [
+      "pupil",
+      "pupils"
+    ],
+    "emoji": "🧒🏫",
+    "id": "gl233"
+  },
+  "purpose": {
+    "word": "purpose",
+    "definition": "the reason why something is done or made",
+    "variations": [
+      "purpose",
+      "purposes"
+    ],
+    "emoji": "🎯💡",
+    "id": "gl234"
+  },
+  "quality": {
+    "word": "quality",
+    "definition": "a feature or part of someone’s or something’s nature",
+    "variations": [
+      "quality",
+      "qualities"
+    ],
+    "emoji": "✨📍",
+    "id": "gl235"
+  },
+  "quantity": {
+    "word": "quantity",
+    "definition": "the amount or number of something",
+    "variations": [
+      "quantity",
+      "quantities"
+    ],
+    "emoji": "🔢📦",
+    "id": "gl236"
+  },
+  "question tag": {
+    "word": "question tag",
+    "definition": "a short question added at the end of a sentence, such as 'isn’t it?' or 'don’t you?'",
+    "variations": [
+      "question tag",
+      "question tags",
+      "tag question",
+      "tag questions"
+    ],
+    "emoji": "❓🗣️",
+    "id": "gl237"
+  },
+  "quiet": {
+    "word": "quiet",
+    "definition": "making little or no noise",
+    "variations": [
+      "quiet",
+      "quieter",
+      "quietest"
+    ],
+    "emoji": "🤫🔇",
+    "id": "gl238"
+  },
+  "radio": {
+    "word": "radio",
+    "definition": "a device that plays sound, such as music or news, from stations",
+    "variations": [
+      "radio",
+      "radios"
+    ],
+    "emoji": "📻",
+    "id": "gl239"
+  },
+  "reality": {
+    "word": "reality",
+    "definition": "what is true or what really exists",
+    "variations": [
+      "reality",
+      "realities"
+    ],
+    "emoji": "🌍✔️",
+    "id": "gl240"
+  },
+  "rearrange": {
+    "word": "rearrange",
+    "definition": "to change the order of things and put them in the correct way",
+    "variations": [
+      "rearrange",
+      "rearranged",
+      "rearranging",
+      "rearranges"
+    ],
+    "emoji": "🔄📝",
+    "id": "gl241"
+  },
+  "receiver": {
+    "word": "receiver",
+    "definition": "the person or thing that gets the action in a sentence",
+    "variations": [
+      "receiver",
+      "receivers"
+    ],
+    "emoji": "📥👤",
+    "id": "gl242"
+  },
+  "recipient": {
+    "word": "recipient",
+    "definition": "the person who receives something, such as a letter or gift",
+    "variations": [
+      "recipient",
+      "recipients"
+    ],
+    "emoji": "📩👤",
+    "id": "gl243"
+  },
+  "reflection": {
+    "word": "reflection",
+    "definition": "careful thought about something you have done, seen, or felt",
+    "variations": [
+      "reflection",
+      "reflections"
+    ],
+    "emoji": "🤔💭",
+    "id": "gl244"
+  },
+  "regret": {
+    "word": "regret",
+    "definition": "to feel sorry about something you did",
+    "variations": [
+      "regret",
+      "regrets",
+      "regretted",
+      "regretting"
+    ],
+    "emoji": "😞💭",
+    "id": "gl245"
+  },
+  "replace": {
+    "word": "replace",
+    "definition": "to take the place of something else",
+    "variations": [
+      "replace",
+      "replaces",
+      "replaced",
+      "replacing"
+    ],
+    "emoji": "🔁➡️",
+    "id": "gl246"
+  },
+  "reply": {
+    "word": "reply",
+    "definition": "to answer someone by speaking or writing",
+    "variations": [
+      "reply",
+      "replies",
+      "replied",
+      "replying"
+    ],
+    "emoji": "💬✉️",
+    "id": "gl247"
+  },
+  "rescued": {
+    "word": "rescued",
+    "definition": "saved from danger or harm",
+    "variations": [
+      "rescue",
+      "rescues",
+      "rescued",
+      "rescuing"
+    ],
+    "emoji": "🛟🙌",
+    "id": "gl248"
+  },
+  "respect": {
+    "word": "respect",
+    "definition": "a feeling of care and honour for someone",
+    "variations": [
+      "respect",
+      "respects",
+      "respected",
+      "respecting"
+    ],
+    "emoji": "🤝🌟",
+    "id": "gl249"
+  },
+  "respective": {
+    "word": "respective",
+    "definition": "belonging to each person or thing in a group",
+    "variations": [
+      "respective"
+    ],
+    "emoji": "👥📌",
+    "id": "gl250"
+  },
+  "responsibility": {
+    "word": "responsibility",
+    "definition": "the duty to accept what you have done and deal with it properly",
+    "variations": [
+      "responsibility",
+      "responsibilities"
+    ],
+    "emoji": "🤝📌",
+    "id": "gl251"
+  },
+  "rest": {
+    "word": "rest",
+    "definition": "to relax or stay still after work or movement",
+    "variations": [
+      "rest",
+      "rests",
+      "rested",
+      "resting"
+    ],
+    "emoji": "😌🌳",
+    "id": "gl252"
+  },
+  "restored": {
+    "word": "restored",
+    "definition": "brought back to the way it was before",
+    "variations": [
+      "restore",
+      "restores",
+      "restored",
+      "restoring"
+    ],
+    "emoji": "🔧🔄",
+    "id": "gl253"
+  },
+  "retell": {
+    "word": "retell",
+    "definition": "to tell something again in your own words",
+    "variations": [
+      "retell",
+      "retells",
+      "retold",
+      "retelling"
+    ],
+    "emoji": "🗣️🔁",
+    "id": "gl254"
+  },
+  "rhyme": {
+    "word": "rhyme",
+    "definition": "words that sound the same or similar at the end, like 'cat' and 'hat'",
+    "variations": [
+      "rhyme",
+      "rhymes",
+      "rhyming"
+    ],
+    "emoji": "🎶🔊",
+    "id": "gl255"
+  },
+  "route": {
+    "word": "route",
+    "definition": "the way or path from one place to another",
+    "variations": [
+      "route",
+      "routes"
+    ],
+    "emoji": "🗺️➡️",
+    "id": "gl256"
+  },
+  "rude": {
+    "word": "rude",
+    "definition": "not polite; showing bad manners",
+    "variations": [
+      "rude",
+      "ruder",
+      "rudest"
+    ],
+    "emoji": "😒🚫",
+    "id": "gl257"
+  },
+  "sacrifice": {
+    "word": "sacrifice",
+    "definition": "something important that you give up to help another person",
+    "variations": [
+      "sacrifice",
+      "sacrifices",
+      "sacrificed",
+      "sacrificing"
+    ],
+    "emoji": "❤️🤲",
+    "id": "gl258"
+  },
+  "salary": {
+    "word": "salary",
+    "definition": "money a person is paid regularly for their work",
+    "variations": [
+      "salary",
+      "salaries"
+    ],
+    "emoji": "💵🧾",
+    "id": "gl259"
+  },
+  "self-introduction": {
+    "word": "self-introduction",
+    "definition": "a short talk or writing in which you tell people about yourself",
+    "variations": [
+      "self-introduction",
+      "self-introductions"
+    ],
+    "emoji": "🙋🗣️",
+    "id": "gl260"
+  },
+  "semi-desert": {
+    "word": "semi-desert",
+    "definition": "a very dry area with little rain, but not as dry as a full desert",
+    "variations": [
+      "semi-desert",
+      "semi-deserts"
+    ],
+    "emoji": "🏜️☀️",
+    "id": "gl261"
+  },
+  "sender": {
+    "word": "sender",
+    "definition": "the person who sends a letter, note, or message",
+    "variations": [
+      "sender",
+      "senders",
+      "send",
+      "sends",
+      "sent",
+      "sending"
+    ],
+    "emoji": "📤👤",
+    "id": "gl262"
+  },
+  "serious": {
+    "word": "serious",
+    "definition": "thoughtful and not playful or joking",
+    "variations": [
+      "serious",
+      "more serious",
+      "most serious"
+    ],
+    "emoji": "😐🧠",
+    "id": "gl263"
+  },
+  "shutter button": {
+    "word": "shutter button",
+    "definition": "the button you press on a camera to take a photo",
+    "variations": [
+      "shutter button",
+      "shutter buttons"
+    ],
+    "emoji": "📸🔘",
+    "id": "gl264"
+  },
+  "sieve": {
+    "word": "sieve",
+    "definition": "to put something through a tool with small holes to remove lumps or unwanted parts",
+    "variations": [
+      "sieve",
+      "sieved",
+      "sieves",
+      "sieving"
+    ],
+    "emoji": "🍚🕳️",
+    "id": "gl265"
+  },
+  "signature": {
+    "word": "signature",
+    "definition": "a person’s written name, usually at the end of a letter or document",
+    "variations": [
+      "signature",
+      "signatures",
+      "sign",
+      "signed",
+      "signing"
+    ],
+    "emoji": "✍️🖊️",
+    "id": "gl266"
+  },
+  "similar": {
+    "word": "similar",
+    "definition": "almost the same, but not exactly",
+    "variations": [
+      "similar"
+    ],
+    "emoji": "👥🟰",
+    "id": "gl267"
+  },
+  "simile": {
+    "word": "simile",
+    "definition": "a comparison between two things using words like 'as' or 'like'",
+    "variations": [
+      "simile",
+      "similes"
+    ],
+    "emoji": "🔍🟰",
+    "id": "gl268"
+  },
+  "sincerely": {
+    "word": "sincerely",
+    "definition": "a polite word used to end a letter or note",
+    "variations": [
+      "sincerely"
+    ],
+    "emoji": "✉️🙏",
+    "id": "gl269"
+  },
+  "situation": {
+    "word": "situation",
+    "definition": "the condition or state of something at a certain time",
+    "variations": [
+      "situation",
+      "situations"
+    ],
+    "emoji": "📌🤔",
+    "id": "gl270"
+  },
+  "size": {
+    "word": "size",
+    "definition": "how big or small something is",
+    "variations": [
+      "size",
+      "sizes"
+    ],
+    "emoji": "📐📏",
+    "id": "gl271"
+  },
+  "skilful": {
+    "word": "skilful",
+    "definition": "good at doing something because of practice or ability",
+    "variations": [
+      "skilful"
+    ],
+    "emoji": "👏🛠️",
+    "id": "gl272"
+  },
+  "slapped": {
+    "word": "slapped",
+    "definition": "hit someone with an open hand",
+    "variations": [
+      "slap",
+      "slaps",
+      "slapped",
+      "slapping"
+    ],
+    "emoji": "✋😠",
+    "id": "gl273"
+  },
+  "smart": {
+    "word": "smart",
+    "definition": "clever and able to learn or understand quickly",
+    "variations": [
+      "smart",
+      "smarter",
+      "smartest"
+    ],
+    "emoji": "🧠⭐",
+    "id": "gl274"
+  },
+  "smooth": {
+    "word": "smooth",
+    "definition": "even and without lumps or rough parts",
+    "variations": [
+      "smooth",
+      "smoother",
+      "smoothest"
+    ],
+    "emoji": "✨🥄",
+    "id": "gl275"
+  },
+  "smoothly": {
+    "word": "smoothly",
+    "definition": "in an easy and natural way without stopping or difficulty",
+    "variations": [
+      "smoothly"
+    ],
+    "emoji": "🌊➡️",
+    "id": "gl276"
+  },
+  "sound": {
+    "word": "sound",
+    "definition": "something that is heard, especially a spoken part of a word",
+    "variations": [
+      "sound",
+      "sounds"
+    ],
+    "emoji": "🔊👂",
+    "id": "gl277"
+  },
+  "source": {
+    "word": "source",
+    "definition": "the place something comes from or where information is taken from",
+    "variations": [
+      "source",
+      "sources"
+    ],
+    "emoji": "📺📚",
+    "id": "gl278"
+  },
+  "speech": {
+    "word": "speech",
+    "definition": "a talk given to a group of people",
+    "variations": [
+      "speech",
+      "speeches"
+    ],
+    "emoji": "🎤🗣️",
+    "id": "gl279"
+  },
+  "spoken language": {
+    "word": "spoken language",
+    "definition": "language that people use when they speak",
+    "variations": [
+      "spoken language",
+      "spoken languages"
+    ],
+    "emoji": "🗣️👂",
+    "id": "gl280"
+  },
+  "stanza": {
+    "word": "stanza",
+    "definition": "a group of lines in a poem, like a paragraph in poetry",
+    "variations": [
+      "stanza",
+      "stanzas"
+    ],
+    "emoji": "📜📝",
+    "id": "gl281"
+  },
+  "statement": {
+    "word": "statement",
+    "definition": "something spoken or written to give information",
+    "variations": [
+      "statement",
+      "statements"
+    ],
+    "emoji": "📄🗣️",
+    "id": "gl282"
+  },
+  "station": {
+    "word": "station",
+    "definition": "a radio channel where music, news, or other programmes are played",
+    "variations": [
+      "station",
+      "stations"
+    ],
+    "emoji": "📻📡",
+    "id": "gl283"
+  },
+  "steal": {
+    "word": "steal",
+    "definition": "to take something that belongs to someone else without permission",
+    "variations": [
+      "steal",
+      "steals",
+      "stole",
+      "stolen",
+      "stealing"
+    ],
+    "emoji": "👜🚫",
+    "id": "gl284"
+  },
+  "stick out": {
+    "word": "stick out",
+    "definition": "to push something, such as your tongue, outward so it can be seen",
+    "variations": [
+      "stick out",
+      "stuck out",
+      "sticks out",
+      "sticking out"
+    ],
+    "emoji": "😛➡️",
+    "id": "gl285"
+  },
+  "stimulate": {
+    "word": "stimulate",
+    "definition": "to make something start or become more active",
+    "variations": [
+      "stimulate",
+      "stimulates",
+      "stimulated",
+      "stimulating"
+    ],
+    "emoji": "⚡🧠",
+    "id": "gl286"
+  },
+  "story": {
+    "word": "story",
+    "definition": "a description of events or actions, usually told in order, about people, animals, or imaginary characters",
+    "variations": [
+      "story",
+      "stories"
+    ],
+    "emoji": "📖🗣️",
+    "id": "gl287"
+  },
+  "subtraction": {
+    "word": "subtraction",
+    "definition": "the act of taking one number away from another",
+    "variations": [
+      "subtraction"
+    ],
+    "emoji": "➖🔢",
+    "id": "gl288"
+  },
+  "summarise": {
+    "word": "summarise",
+    "definition": "to give the main points of something in a short and clear way",
+    "variations": [
+      "summarise",
+      "summarises",
+      "summarised",
+      "summarising",
+      "summary"
+    ],
+    "emoji": "📝📚",
+    "id": "gl289"
+  },
+  "summarising": {
+    "word": "summarising",
+    "definition": "giving the main points in a short form",
+    "variations": [
+      "summarise",
+      "summarises",
+      "summarised",
+      "summarising"
+    ],
+    "emoji": "✍️📌",
+    "id": "gl290"
+  },
+  "superlative": {
+    "word": "superlative",
+    "definition": "a form of a word used to show the highest or lowest among three or more things, like biggest or smallest",
+    "variations": [
+      "superlative",
+      "superlatives"
+    ],
+    "emoji": "🏆🔝",
+    "id": "gl291"
+  },
+  "superstition": {
+    "word": "superstition",
+    "definition": "a belief based on fear or old ideas rather than facts",
+    "variations": [
+      "superstition",
+      "superstitions"
+    ],
+    "emoji": "🔮😟",
+    "id": "gl292"
+  },
+  "supply": {
+    "word": "supply",
+    "definition": "the amount of something that is available for use",
+    "variations": [
+      "supply",
+      "supplies"
+    ],
+    "emoji": "🚰📦",
+    "id": "gl293"
+  },
+  "supporting idea": {
+    "word": "supporting idea",
+    "definition": "a detail that helps explain or prove the main idea",
+    "variations": [
+      "supporting idea",
+      "supporting ideas"
+    ],
+    "emoji": "📝📚",
+    "id": "gl294"
+  },
+  "suspect": {
+    "word": "suspect",
+    "definition": "to think someone may have done something wrong",
+    "variations": [
+      "suspect",
+      "suspects",
+      "suspected",
+      "suspecting"
+    ],
+    "emoji": "🤔🚨",
+    "id": "gl295"
+  },
+  "sweeter": {
+    "word": "sweeter",
+    "definition": "having more sweet taste than something else",
+    "variations": [
+      "sweet",
+      "sweeter",
+      "sweetest"
+    ],
+    "emoji": "🍊🍌",
+    "id": "gl296"
+  },
+  "synonym": {
+    "word": "synonym",
+    "definition": "a word that has the same or nearly the same meaning as another word",
+    "variations": [
+      "synonym",
+      "synonyms"
+    ],
+    "emoji": "🟰📚",
+    "id": "gl297"
+  },
+  "tablet": {
+    "word": "tablet",
+    "definition": "a small flat computer that you control by touching the screen",
+    "variations": [
+      "tablet",
+      "tablets"
+    ],
+    "emoji": "📱💻",
+    "id": "gl298"
+  },
+  "taller": {
+    "word": "taller",
+    "definition": "having more height than another person or thing",
+    "variations": [
+      "tall",
+      "taller",
+      "tallest"
+    ],
+    "emoji": "📏🌳",
+    "id": "gl299"
+  },
+  "tax": {
+    "word": "tax",
+    "definition": "money people pay to the government to support public services",
+    "variations": [
+      "tax",
+      "taxes"
+    ],
+    "emoji": "💰🏛️",
+    "id": "gl300"
+  },
+  "technical term": {
+    "word": "technical term",
+    "definition": "a special word or phrase used in a subject or field",
+    "variations": [
+      "technical term",
+      "technical terms"
+    ],
+    "emoji": "📘🔤",
+    "id": "gl301"
+  },
+  "temporary": {
+    "word": "temporary",
+    "definition": "lasting for only a short time",
+    "variations": [
+      "temporary"
+    ],
+    "emoji": "⏳🕒",
+    "id": "gl302"
+  },
+  "theme": {
+    "word": "theme",
+    "definition": "the main subject or idea in a piece of writing",
+    "variations": [
+      "theme",
+      "themes"
+    ],
+    "emoji": "🎯📚",
+    "id": "gl303"
+  },
+  "thermometer": {
+    "word": "thermometer",
+    "definition": "a tool used to measure temperature",
+    "variations": [
+      "thermometer",
+      "thermometers"
+    ],
+    "emoji": "🌡️🔍",
+    "id": "gl304"
+  },
+  "through": {
+    "word": "through",
+    "definition": "from one side to the other side by passing inside something",
+    "variations": [
+      "through"
+    ],
+    "emoji": "🪟➡️",
+    "id": "gl305"
+  },
+  "tiny": {
+    "word": "tiny",
+    "definition": "very small",
+    "variations": [
+      "tiny",
+      "tinier",
+      "tiniest"
+    ],
+    "emoji": "🔹🐜",
+    "id": "gl306"
+  },
+  "tiptoe": {
+    "word": "tiptoe",
+    "definition": "to walk quietly on the front part of the feet",
+    "variations": [
+      "tiptoe",
+      "tiptoed",
+      "tiptoes",
+      "tiptoeing"
+    ],
+    "emoji": "🦶🤫",
+    "id": "gl307"
+  },
+  "title": {
+    "word": "title",
+    "definition": "the name given to a book, poem, or piece of writing",
+    "variations": [
+      "title",
+      "titles"
+    ],
+    "emoji": "🏷️📝",
+    "id": "gl308"
+  },
+  "too...to": {
+    "word": "too...to",
+    "definition": "a structure used to show that something has more of a quality than needed, so something cannot happen",
+    "variations": [
+      "too...to"
+    ],
+    "emoji": "⚠️📏",
+    "id": "gl309"
+  },
+  "torch": {
+    "word": "torch",
+    "definition": "a small light you carry in your hand; a flashlight",
+    "variations": [
+      "torch",
+      "torches"
+    ],
+    "emoji": "🔦",
+    "id": "gl310"
+  },
+  "total": {
+    "word": "total",
+    "definition": "the whole amount after adding everything together",
+    "variations": [
+      "total",
+      "totals"
+    ],
+    "emoji": "🧮➕",
+    "id": "gl311"
+  },
+  "tough": {
+    "word": "tough",
+    "definition": "hard to bite, break, or cut; not soft",
+    "variations": [
+      "tough"
+    ],
+    "emoji": "💪🎃",
+    "id": "gl312"
+  },
+  "towards": {
+    "word": "towards",
+    "definition": "in the direction of someone or something",
+    "variations": [
+      "towards",
+      "toward"
+    ],
+    "emoji": "➡️🎯",
+    "id": "gl313"
+  },
+  "trait": {
+    "word": "trait",
+    "definition": "a quality or characteristic of a person",
+    "variations": [
+      "trait",
+      "traits"
+    ],
+    "emoji": "🧍✨",
+    "id": "gl314"
+  },
+  "transform": {
+    "word": "transform",
+    "definition": "to change something from one form into another",
+    "variations": [
+      "transform",
+      "transforms",
+      "transformed",
+      "transforming"
+    ],
+    "emoji": "🔄🛠️",
+    "id": "gl315"
+  },
+  "triangle": {
+    "word": "triangle",
+    "definition": "a shape with three sides",
+    "variations": [
+      "triangle",
+      "triangles"
+    ],
+    "emoji": "🔺",
+    "id": "gl316"
+  },
+  "tuning": {
+    "word": "tuning",
+    "definition": "adjusting a radio or device to find the station or sound you want",
+    "variations": [
+      "tuning",
+      "tune",
+      "tuned"
+    ],
+    "emoji": "📻🎶",
+    "id": "gl317"
+  },
+  "under": {
+    "word": "under",
+    "definition": "below something else",
+    "variations": [
+      "under"
+    ],
+    "emoji": "⬇️📦",
+    "id": "gl318"
+  },
+  "understanding": {
+    "word": "understanding",
+    "definition": "knowledge of what something means or how it works",
+    "variations": [
+      "understanding",
+      "understand",
+      "understands",
+      "understood"
+    ],
+    "emoji": "🧠💡",
+    "id": "gl319"
+  },
+  "unfinished": {
+    "word": "unfinished",
+    "definition": "not completed yet",
+    "variations": [
+      "unfinished"
+    ],
+    "emoji": "⏳🛠️",
+    "id": "gl320"
+  },
+  "unfinished action": {
+    "word": "unfinished action",
+    "definition": "an action that has not finished yet",
+    "variations": [
+      "unfinished actions"
+    ],
+    "emoji": "⏳🔄",
+    "id": "gl321"
+  },
+  "unit": {
+    "word": "unit",
+    "definition": "a section of a book that teaches one topic",
+    "variations": [
+      "unit",
+      "units"
+    ],
+    "emoji": "📘📖",
+    "id": "gl322"
+  },
+  "verb form": {
+    "word": "verb form",
+    "definition": "the way a verb changes to show time or meaning",
+    "variations": [
+      "verb forms"
+    ],
+    "emoji": "📝⏰",
+    "id": "gl323"
+  },
+  "visualisation": {
+    "word": "visualisation",
+    "definition": "forming a picture in your mind of something",
+    "variations": [
+      "visualisation",
+      "visualisations"
+    ],
+    "emoji": "👁️🖼️",
+    "id": "gl324"
+  },
+  "vocabulary": {
+    "word": "vocabulary",
+    "definition": "all the words a person knows or uses in a language",
+    "variations": [
+      "vocabulary",
+      "vocabularies"
+    ],
+    "emoji": "📝📚",
+    "id": "gl325"
+  },
+  "volume": {
+    "word": "volume",
+    "definition": "the level of sound; how loud or soft something is",
+    "variations": [
+      "volume"
+    ],
+    "emoji": "🔊🎚️",
+    "id": "gl326"
+  },
+  "wedding": {
+    "word": "wedding",
+    "definition": "a ceremony in which two people get married",
+    "variations": [
+      "wedding",
+      "weddings"
+    ],
+    "emoji": "💒💍",
+    "id": "gl327"
+  },
+  "witness": {
+    "word": "witness",
+    "definition": "a person who sees something happen",
+    "variations": [
+      "witness",
+      "witnesses"
+    ],
+    "emoji": "👀🧍",
+    "id": "gl328"
+  },
+  "written": {
+    "word": "written",
+    "definition": "put into words on paper or in text",
+    "variations": [
+      "written"
+    ],
+    "emoji": "✍️📄",
+    "id": "gl329"
+  },
+  "zebra": {
+    "word": "zebra",
+    "definition": "an African animal like a horse with black and white stripes",
+    "variations": [
+      "zebra",
+      "zebras"
+    ],
+    "emoji": "🦓",
+    "id": "gl330"
+  }
+}
