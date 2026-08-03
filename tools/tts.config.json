@@ -1,7 +1,9 @@
 {
   "$comment": "Local TTS regeneration. Existing audio is adopted in regen/manifest.json; later runs regenerate only changed text.",
   "exclude": {
-    "categories": [],
+    "categories": [
+      "answers"
+    ],
     "textIds": []
   },
   "languages": {
