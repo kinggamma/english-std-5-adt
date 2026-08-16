@@ -6788,7 +6788,33 @@
         "pg073_n0003": "0b60e8ad47602cc30cd17f57b902386e6ba3fefaaccb6325e9eee8b5dbfb05a1",
         "pg074_n0002": "c494ec56d842c9959cf970c149396bea7f76c959f0816c4334c021d5d5c9fa7a",
         "pg099_n0002": "ddebaf4163d713cc8453f9726cd6f141d7840cb483a2a2d3fa027e7a4a00a744",
-        "pg100_n0002": "ecc305ce78c53626f055cfd511415a053afce4a8f08e29cec87a19876b4da8d5"
+        "pg100_n0002": "ecc305ce78c53626f055cfd511415a053afce4a8f08e29cec87a19876b4da8d5",
+        "pg016_n0007": "9f6d99f0052d678816fe6ce5cf39db351b9582677bd1ab53e4ba3b65c5ecc8c2",
+        "pg016_n0009": "535c88b4be102779d2bceb734a0bd559e3be0f33d24ad08e0aa6638837d58bb5",
+        "pg016_n0011": "9ed0a2b62dbc3903d3f01ba97d20c1d0724a28fb628824492c8dcf4d444f9ff5",
+        "pg016_n0014": "d570ab0f6caa36a2901ac37d2963b5c93f578d999f0a0f73ac3175a5d15fd7fb",
+        "pg016_n0016": "a60adde94108e81f4458c11edd75256589e3e45c1aa9c4864b083521a3c344be",
+        "pg016_n0026": "c04c2e33e15062d78a53d835fd0257071b16e397b647e787acf3bd7b2ff7dfb4",
+        "pg016_n0028": "47378a829e531ab3d85ea0708f5564131e070ed60a3b30deacac2ed4a321ac06",
+        "pg016_n0030": "8ccc420f0c682d93bbcfe543f01bfbdb16cccc0493e0b4940231dae87c918cbb",
+        "pg016_n0032": "52b3bb48eab63913af473f213b23cc5dc4bb94af38804810401219b6e714acde",
+        "pg016_n0034": "bff9a828b273f7979df4a2069d880e0f59d04fa26ec3a650dbca844835e3291d",
+        "pg016_n0036": "fc185d2268a08bef386d2ba7b0ee2c19e2b48b3ecb2ef8c3d203c1521668b91d",
+        "pg016_n0007_easy_read": "9f6d99f0052d678816fe6ce5cf39db351b9582677bd1ab53e4ba3b65c5ecc8c2",
+        "pg016_n0009_easy_read": "535c88b4be102779d2bceb734a0bd559e3be0f33d24ad08e0aa6638837d58bb5",
+        "pg016_n0011_easy_read": "9ed0a2b62dbc3903d3f01ba97d20c1d0724a28fb628824492c8dcf4d444f9ff5",
+        "pg016_n0014_easy_read": "d570ab0f6caa36a2901ac37d2963b5c93f578d999f0a0f73ac3175a5d15fd7fb",
+        "pg016_n0016_easy_read": "a60adde94108e81f4458c11edd75256589e3e45c1aa9c4864b083521a3c344be",
+        "pg016_n0026_easy_read": "c04c2e33e15062d78a53d835fd0257071b16e397b647e787acf3bd7b2ff7dfb4",
+        "pg016_n0028_easy_read": "47378a829e531ab3d85ea0708f5564131e070ed60a3b30deacac2ed4a321ac06",
+        "pg016_n0030_easy_read": "8ccc420f0c682d93bbcfe543f01bfbdb16cccc0493e0b4940231dae87c918cbb",
+        "pg016_n0032_easy_read": "52b3bb48eab63913af473f213b23cc5dc4bb94af38804810401219b6e714acde",
+        "pg016_n0034_easy_read": "bff9a828b273f7979df4a2069d880e0f59d04fa26ec3a650dbca844835e3291d",
+        "pg016_n0036_easy_read": "fc185d2268a08bef386d2ba7b0ee2c19e2b48b3ecb2ef8c3d203c1521668b91d",
+        "pg001_page": "413324477e5c2f889db45fc08973a43db51fef6fc954a9e1240ee224a77aa1be",
+        "pg072_n0034": "a54d74b332c46c724bc0e18ec6c1c8d82779d6ffd7f5c41c11af278c1e4fc0d7",
+        "pg072_n0035": "ce2835a9f47342bb3571a7bae61becbf089d9e0c5f37d16deff467038f4621ce",
+        "pg072_n0036": "3a2bd2c8d252453c8626f36cedddfa0915eab219f7257978c0c6e722d72ecbe9"
       },
       "entrySettings": {
         "pg001_n0002": {
@@ -54245,6 +54271,188 @@
           "format": "mp3"
         },
         "pg100_n0002": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0007": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0009": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0011": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0014": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0016": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0026": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0028": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0030": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0032": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0034": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0036": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0007_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0009_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0011_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0014_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0016_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0026_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0028_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0030_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0032_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0034_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0036_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg001_page": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg072_n0034": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg072_n0035": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg072_n0036": {
           "provider": "openai",
           "model": "gpt-4o-mini-tts",
           "voice": "alloy",
@@ -101707,6 +101915,188 @@
           "format": "mp3"
         },
         "pg100_n0002": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0007": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0009": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0011": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0014": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0016": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0026": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0028": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0030": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0032": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0034": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0036": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0007_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0009_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0011_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0014_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0016_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0026_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0028_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0030_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0032_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0034_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg016_n0036_easy_read": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg001_page": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg072_n0034": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg072_n0035": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "pg072_n0036": {
           "provider": "openai",
           "model": "gpt-4o-mini-tts",
           "voice": "alloy",

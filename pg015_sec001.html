@@ -124,6 +124,37 @@
 
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
+    <script>
+      // Keep the matching table visually row-based, while read-aloud follows
+      // Column A in full before moving to Column B.
+      (() => {
+        const table = document.querySelector('[data-section-id="pg015_sec001"] > .border > .grid:nth-child(2)');
+        if (!table) return;
+
+        const rows = [...table.children].filter((row) => row.classList.contains('contents'));
+        if (rows.length !== 13) return;
+
+        const columnA = document.createElement('div');
+        const columnB = document.createElement('div');
+        columnA.className = 'contents';
+        columnB.className = 'contents';
+
+        rows.forEach((row, index) => {
+          const [number, word, meaning] = [...row.children];
+          const gridRow = String(index + 1);
+          number.style.gridColumn = '1';
+          number.style.gridRow = gridRow;
+          word.style.gridColumn = '2';
+          word.style.gridRow = gridRow;
+          meaning.style.gridColumn = '3';
+          meaning.style.gridRow = gridRow;
+          columnA.append(number, word);
+          columnB.append(meaning);
+        });
+
+        table.replaceChildren(columnA, columnB);
+      })();
+    </script>
     <script src="./assets/offline-preloader.js"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js"></script>
