@@ -25,6 +25,19 @@
 
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
+    <script>
+      (() => {
+        const cues = {
+          pg072_n0014: 'The underlined sentence is: This hereditary condition is bound with superstition.',
+          pg072_n0017: 'The underlined sentence is: The myth has led to attacks and killings of people with albinism in the country.',
+          pg072_n0018: 'The underlined sentence is: UN statistics show that 75 people with albinism were murdered in Tanzania between 2000 and 2016.'
+        };
+        Object.entries(cues).forEach(([id, text]) => {
+          const element = document.querySelector(`[data-id="${id}"]`);
+          if (element) element.textContent = text;
+        });
+      })();
+    </script>
     <script src="./assets/offline-preloader.js"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js"></script>

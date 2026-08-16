@@ -128,20 +128,34 @@
       // Keep the matching table visually row-based, while read-aloud follows
       // Column A in full before moving to Column B.
       (() => {
+        const header = document.querySelector('[data-section-id="pg015_sec001"] > .border > .grid:nth-child(1)');
         const table = document.querySelector('[data-section-id="pg015_sec001"] > .border > .grid:nth-child(2)');
-        if (!table) return;
+        if (!header || !table) return;
 
+        const [serialHeader, columnAHeader, columnBHeader] = [...header.children];
         const rows = [...table.children].filter((row) => row.classList.contains('contents'));
-        if (rows.length !== 13) return;
+        if (!serialHeader || !columnAHeader || !columnBHeader || rows.length !== 13) return;
 
         const columnA = document.createElement('div');
         const columnB = document.createElement('div');
         columnA.className = 'contents';
         columnB.className = 'contents';
 
+        serialHeader.style.gridColumn = '1';
+        serialHeader.style.gridRow = '1';
+        serialHeader.style.backgroundColor = '#f5f5f4';
+        columnAHeader.style.gridColumn = '2';
+        columnAHeader.style.gridRow = '1';
+        columnAHeader.style.backgroundColor = '#f5f5f4';
+        columnBHeader.style.gridColumn = '3';
+        columnBHeader.style.gridRow = '1';
+        columnBHeader.style.backgroundColor = '#f5f5f4';
+        columnA.append(serialHeader, columnAHeader);
+        columnB.append(columnBHeader);
+
         rows.forEach((row, index) => {
           const [number, word, meaning] = [...row.children];
-          const gridRow = String(index + 1);
+          const gridRow = String(index + 2);
           number.style.gridColumn = '1';
           number.style.gridRow = gridRow;
           word.style.gridColumn = '2';
@@ -153,6 +167,50 @@
         });
 
         table.replaceChildren(columnA, columnB);
+        header.remove();
+      })();
+    </script>
+    <script>
+      // The Roman numeral is visual-only. The matching word is the visible
+      // read-aloud target, so only that word receives a highlight.
+      (() => {
+        const labels = [
+          ['pg015_n0033', '(i) ', 'recipient'], ['pg015_n0040', '(ii) ', 'correct'],
+          ['pg015_n0047', '(iii) ', 'reply'], ['pg015_n0054', '(iv) ', 'similar'],
+          ['pg015_n0061', '(v) ', 'wealthy'], ['pg015_n0068', '(vi) ', 'small'],
+          ['pg015_n0075', '(vii) ', 'connect'], ['pg015_n0082', '(viii) ', 'glad'],
+          ['pg015_n0089', '(ix) ', 'funds'], ['pg015_n0096', '(x) ', 'fact'],
+          ['pg015_n0103', '(xi) ', 'incorrect'], ['pg015_n0110', '(xii) ', 'last'],
+          ['pg015_n0117', '(xiii) ', 'large']
+        ];
+        labels.forEach(([id, numeral, word]) => {
+          const target = document.querySelector(`[data-id="${id}"]`);
+          if (!target) return;
+          target.removeAttribute('data-id');
+          target.textContent = numeral;
+          const spokenWord = document.createElement('span');
+          spokenWord.dataset.id = id;
+          spokenWord.textContent = word;
+          target.after(spokenWord);
+        });
+      })();
+    </script>
+    <script>
+      // Keep S/N and row numbers visual-only. The visible Column A and Column B
+      // headings remain read-aloud targets and receive word highlighting.
+      (() => {
+        document.querySelector('[data-id="pg015_n0022"]')?.removeAttribute('data-id');
+        [
+          'pg015_n0029', 'pg015_n0036', 'pg015_n0043', 'pg015_n0050',
+          'pg015_n0057', 'pg015_n0064', 'pg015_n0071', 'pg015_n0078',
+          'pg015_n0085', 'pg015_n0092', 'pg015_n0099', 'pg015_n0106',
+          'pg015_n0113'
+        ].forEach((id) => {
+          const visibleNumber = document.querySelector(`[data-id="${id}"]`);
+          if (!visibleNumber) return;
+          visibleNumber.removeAttribute('data-id');
+          visibleNumber.setAttribute('aria-hidden', 'true');
+        });
       })();
     </script>
     <script src="./assets/offline-preloader.js"></script>
