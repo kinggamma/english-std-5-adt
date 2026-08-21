@@ -25,13 +25,68 @@
     </main>
 
     <script type="text/javascript">
-        window.correctAnswers = JSON.parse('{"item-1":"No, it is a round table","item-2":"Yes, it is","item-3":"No, it is a syringe","item-4":"Yes, it is","item-5":"Yes, it is","item-6":"Yes, it is","item-7":"Yes, it is"}');
+        window.correctAnswers = JSON.parse('{"item-1":"No|No.|No, it is a round table|No it is a round table|No, it is a round table.|No it is a round table.|No, it is not a square table|No it is not a square table|No, it is not a square table.|No it is not a square table.|No, it isn’t a square table|No it isn’t a square table|No, it isn’t a square table.|No it isn’t a square table.","item-2":"Yes|Yes.|Yes, it is|Yes it is|Yes, it is.|Yes it is.","item-3":"No|No.|No, it is a syringe|No it is a syringe|No, it is a syringe.|No it is a syringe.|No, it is not a thermometer|No it is not a thermometer|No, it is not a thermometer.|No it is not a thermometer.|No, it isn’t a thermometer|No it isn’t a thermometer|No, it isn’t a thermometer.|No it isn’t a thermometer.","item-4":"Yes|Yes.|Yes, it is|Yes it is|Yes, it is.|Yes it is.","item-5":"Yes|Yes.|Yes, it is|Yes it is|Yes, it is.|Yes it is.","item-6":"Yes|Yes.|Yes, it is|Yes it is|Yes, it is.|Yes it is.","item-7":"Yes|Yes.|Yes, it is|Yes it is|Yes, it is.|Yes it is."}');
     </script>
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
     <script src="./assets/offline-preloader.js"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js"></script>
+    <script>
+      (() => {
+        const bestAnswers = {
+          "item-1": "No, it is a round table.",
+          "item-2": "Yes, it is.",
+          "item-3": "No, it is a syringe.",
+          "item-4": "Yes, it is.",
+          "item-5": "Yes, it is.",
+          "item-6": "Yes, it is.",
+          "item-7": "Yes, it is."
+        };
+        const normalize = (value) => String(value || "").trim().toLowerCase();
+        const accepted = {};
+        for (const [id, value] of Object.entries(window.correctAnswers || {})) {
+          accepted[id] = String(value).split("|").map(normalize);
+        }
+        const noteId = (input) => `pg098-note-${input.getAttribute("data-activity-item")}`;
+        const clearNote = (input) => document.getElementById(noteId(input))?.remove();
+        const hasCorrectFeedback = (input) =>
+          input.getAttribute("aria-invalid") === "false" &&
+          input.classList.contains("border-green-500");
+        const showNote = (input, text) => {
+          clearNote(input);
+          const note = document.createElement("div");
+          note.id = noteId(input);
+          note.className = "pg098-answer-note mt-2 w-full max-w-full whitespace-normal break-words text-sm leading-snug text-green-700 font-medium";
+          note.setAttribute("role", "status");
+          note.textContent = text;
+          input.closest("td")?.appendChild(note);
+        };
+        const updateNotes = () => {
+          document
+            .querySelectorAll('[data-section-id="pg098_sec001"] input[data-activity-item]')
+            .forEach((input) => {
+              const itemId = input.getAttribute("data-activity-item");
+              const value = normalize(input.value);
+              const best = bestAnswers[itemId];
+              clearNote(input);
+              if (!itemId || !value || !best || !hasCorrectFeedback(input)) return;
+              if (accepted[itemId]?.includes(value) && value !== normalize(best)) {
+                showNote(input, `Correct. Best answer: ${best}`);
+              }
+            });
+        };
+        document.addEventListener("input", (event) => {
+          if (event.target?.matches?.('[data-section-id="pg098_sec001"] input[data-activity-item]')) {
+            clearNote(event.target);
+          }
+        }, true);
+        document.addEventListener("click", () => setTimeout(updateNotes, 250), true);
+        document.addEventListener("keydown", (event) => {
+          if (event.key === "Enter") setTimeout(updateNotes, 250);
+        }, true);
+      })();
+    </script>
 </body>
 
 </html>
