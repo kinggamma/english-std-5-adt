@@ -6433,5 +6433,10 @@
   "pg072_tts_underlined_label": "pg072_tts_underlined_label.mp3",
   "pg060_tts_roman_001": "pg060_tts_roman_001.mp3",
   "pg060_tts_roman_002": "pg060_tts_roman_002.mp3",
-  "pg060_tts_roman_003": "pg060_tts_roman_003.mp3"
+  "pg060_tts_roman_003": "pg060_tts_roman_003.mp3",
+  "validation_torch_6": "validation_torch_6.mp3",
+  "validation_camera_intro": "validation_camera_intro.mp3",
+  "validation_camera_1": "validation_camera_1.mp3",
+  "validation_camera_2": "validation_camera_2.mp3",
+  "validation_camera_3": "validation_camera_3.mp3"
 }

@@ -86,14 +86,14 @@ Status: implemented and verified against the supplied validation report and 2025
 | 109 | Red emphasis matches only the phrases coloured in the PDF. |
 | 110 | The three passive-voice target sentences are underlined. |
 | 111 | Unit title, introduction, and thinking prompt use listening/observing and signed-language wording. |
-| 112 | Both inclusive headings, revised questions, item 6, and complete torch/phone instructions are present. |
-| 113-118 | “Study” wording, camera task, alarm steps, inclusive heading, and stone-art instructions are present. |
-| 119-120 | Inclusive heading, Simon Says rules, “Study” wording, and revised creature question are present. |
-| 121 | Online-source activity includes an any-source alternative. |
+| 112 | Both inclusive headings, revised questions, and item 6 are present; complete torch/phone instructions play as audio-only narration. |
+| 113-118 | “Study” wording and inclusive heading are present; camera, alarm, and stone-art instructions play as audio-only narration. |
+| 119-120 | Inclusive heading, “Study” wording, and revised creature question are present; Simon Says rules play as audio-only narration. |
+| 121 | Online-source activity includes the approved any-source and signing alternative. |
 | 122-123 | Story reading order is structured and item 3 stays with its instruction. |
 | 125 | Heading is inclusive and instruction uses “Study”. |
-| 126 | Inclusive headings and the complete “The Ghost in the Room” story are present. |
-| 127 | Inclusive headings, complete “Nature is Beautiful” poem, and revised Questions 1-3 are present. |
+| 126 | Inclusive headings are present; the complete “The Ghost in the Room” story plays as audio-only narration. |
+| 127 | Inclusive headings and revised Questions 1-3 are present; the complete “Nature Is Beautiful” poem plays as audio-only narration. |
 | 128-130 | Retelling, signed-video, and say/sign wording are present. |
 | 139-142 | Inclusive introduction, prompt, picture direction, and read/say/sign instructions are present. |
 | 145-146 | Self-introduction hints are numbered 1-6 without duplication; heading is inclusive. |

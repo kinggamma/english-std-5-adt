@@ -2377,7 +2377,7 @@
         "pg083_n0016": "a9253dde02eb20867e4d48c12ae75aedfd4b7aed0def2199ad01b34fd3d2b528",
         "pg083_n0017": "a8723dcd7d8d8b916eaa4b47ba2b17d2af6e56afb65bb20fa0ad8a5a4d370fa3",
         "pg084_n0002": "2f6392f2f4e864282b4f899998842bdb5408c15e96369b616458f4ce38033fcf",
-        "pg084_n0003": "b224e348ffd476dd43a6bb2ad746ece8ad7213487ade20e9588f5e0c5ff77299",
+        "pg084_n0003": "3665bc42663b6b94a50cc6f513beddea947635e6e0336a9b66a99d99ca1d5082",
         "pg084_n0006": "1d7b2cd776131ec95fac1fceba8be43a5210be65ca1c2a1a2efec30c1a6a8ed8",
         "pg084_n0007": "d14bfe3c65748bd29c745ab8ce752f86c9e89b66e788ea8e095cedb0e2ebdfee",
         "pg084_n0009": "a64b55f17e9f48855b931b7bb14f0121148183772a73c46827e97f178b8da87f",
@@ -5846,7 +5846,7 @@
         "pg083_n0016_easy_read": "a9253dde02eb20867e4d48c12ae75aedfd4b7aed0def2199ad01b34fd3d2b528",
         "pg083_n0017_easy_read": "a99ae4bc7e2598d49f7821e430dc876cec11158d25f73147c53887940c207ffe",
         "pg084_n0002_easy_read": "2f6392f2f4e864282b4f899998842bdb5408c15e96369b616458f4ce38033fcf",
-        "pg084_n0003_easy_read": "c27ee09db401235e62ec1b5d20cb297198a5477601dc45bea09f1fb55b239f56",
+        "pg084_n0003_easy_read": "53ce51b15d086de7c4c8126df85cbd4e0ad7413a5261073c41334f5c372af568",
         "pg084_n0006_easy_read": "1d7b2cd776131ec95fac1fceba8be43a5210be65ca1c2a1a2efec30c1a6a8ed8",
         "pg084_n0007_easy_read": "614d9877dac1d957560b73198ad924b56557cf13791342fb7d48a75d20ee9eeb",
         "pg084_n0009_easy_read": "a64b55f17e9f48855b931b7bb14f0121148183772a73c46827e97f178b8da87f",
@@ -6711,37 +6711,37 @@
         "pg119_n0004_easy_read": "5197e8d57351a88d7ce99e1b3070001c38d6e3358408d672269f5ea40331a69b",
         "pg118_n0023_easy_read": "60fad13b019710fb240a22261af52b4c4d032fd133fcfcdbafeb8494b8f164c5",
         "validation_torch_heading": "67e1cc5185f34e514cfa37b7db5c52acf94e12ce24f3ecafd8853b32e6710151",
-        "validation_torch_1": "67e302dd5963a2919928e8c1b88c70f8a542b816a3d1edd2641ad3aba7a6a526",
-        "validation_torch_2": "0134d7abb4247fe9a39c510dd87e0d7a9718fe8e77939b2a0588df1f964926b7",
-        "validation_torch_3": "0c82f85e7ba63973babab54d6a04915678c878ffea2be69cdff0c44a0f3b6b46",
-        "validation_torch_4": "e0a17ce694b380284f8c43edd79a4b7e88d0a0bb07b05a944546a5137f7132ac",
-        "validation_torch_5": "5c9af7d3625a358a89fb74e3cbffe9df7b67817054731d869be16331013815b4",
+        "validation_torch_1": "fbcd4acf97b69ba9c84af96c69c8af37f8f46d4c6f9f590484c37e1108904ed0",
+        "validation_torch_2": "f6de4881f0990e198d303edd76cfcf73e47be545542cb6d7b03cd46ebe35c910",
+        "validation_torch_3": "a033fe68a73fdfe0789fba9499d39fdf69f5db566c5df2a3649f287814209d0e",
+        "validation_torch_4": "0c82f85e7ba63973babab54d6a04915678c878ffea2be69cdff0c44a0f3b6b46",
+        "validation_torch_5": "e0a17ce694b380284f8c43edd79a4b7e88d0a0bb07b05a944546a5137f7132ac",
         "validation_phone_heading": "062bf0870d7fac28782417e09973aeab964232c903b8eaeb4706ce898a0ce7ad",
-        "validation_phone_1": "479013c643925e2076a3b68e3e6ed7fea4a3adbe703cdb9d5391085f7e5f5aa3",
-        "validation_phone_2": "1164a4ed5837f4943059a0e4903490f2ee0a72dd67aaf7240fcb503eb653dd2f",
-        "validation_phone_3": "64ca731f2f20d5a75f95e88161b7f87a58ae7aa5894cd1180b7dc546ef36e58a",
-        "validation_phone_4": "b1d3b69f05b5ca2ee394e84ce274267d43129162167c9054314da69c71d382aa",
-        "validation_phone_5": "a3473ab1856b8268eaef2c858aed2f9d38652c219d1c3cc48d961eac44844a43",
-        "validation_phone_6": "efd012db99bdb2c0f1caea3b047359651cd0ad7c8c4993bf639ed02b2a1ce430",
-        "validation_phone_7": "e8f388787ff62c1bd205ae5485e5d6bda323c9caa7e9edd216e4bfc2a3ad3e4f",
-        "validation_phone_8": "cbf84b5adae554bc00c0f29d7ae0a18e8ea5d30d6ba5481ce712616f98b1b861",
+        "validation_phone_1": "feb97f84871e2ad66bb9300f2989960daf3ab9b7080fc12c1be467ff6a4c3cc9",
+        "validation_phone_2": "ee51688528281f90556fd9132c66f2fa0c45f9b62e8408d1213f584675d2ee4d",
+        "validation_phone_3": "df4584edd71de2e84b1b2b2349486076179b5fa7a637085fa31ac715547a731b",
+        "validation_phone_4": "02a2f549380974189b44da5822fbc8e668e32b9ee5537a8822bf476f15cde393",
+        "validation_phone_5": "1ab846bfbc944b25844bb20ae6e8c3ab66eeb054985f1b6ecdd914710cb34ab4",
+        "validation_phone_6": "3d24a61f8373d8e9eb2e2a837bdb9fd66706e02d067dbfaca1abec726c83fa6e",
+        "validation_phone_7": "e6caebdb78ddefdf3dc7c2cabd5912d92a90523888fad698799a44887c05b880",
+        "validation_phone_8": "55626b26d34fb247ca26a39f0df6af0325054031951103460246dd299f536058",
         "validation_alarm_heading": "1cc9b5e1a831ba6609ca4ce8b79677c64daa7391fa557f10105f269c86d036f0",
-        "validation_alarm_1": "74282202d237af082daff9eccad433d90f0b78f70362f52cae71dc48f0d8a278",
-        "validation_alarm_2": "5498b238ba4e11722444fb4ff3ea563ed9395f31bb0ef88c76a0e2619de4fcc7",
-        "validation_alarm_3": "c8f84670cfe700ebe50e3d3b793ae52c57032d0d28c494608d32a3976d997891",
-        "validation_alarm_4": "a7aee9a185684f72ed65d55e466a0a94d8bd71250f3f0617619c4f7500324254",
+        "validation_alarm_1": "74fea03038790e9c0d71956a2fa4426f7db2da8c5f14ae1ca745d1de457fee37",
+        "validation_alarm_2": "3ef6552e98fa33984120ee386fc399f35df202170c0e520c7118c48e2ea16e34",
+        "validation_alarm_3": "8470184ef2c8d48476a581f5519f091285fe0b317faa4a521d5b3275b88fbbb4",
+        "validation_alarm_4": "57d65371106046d06f0f6c2bc7294ff650e90f29d7cae8492747116bebca65be",
         "validation_alarm_5": "b95962a3678c97baf36eeb8e5786e02245909b50a22caf65f509b1916e3c2861",
         "validation_stone_heading": "82070d056328e560908686930703bd5b5ce7e88fbad73fffc3962b093af7e103",
         "validation_stone_1": "2afa30a23a5635d97400413cffbae34be66772315814a51c5e12d6f274821067",
-        "validation_stone_2": "0ee32d7855a79de182771ebeff89380544bd76d72ad2e81e8c6b56b60f2bbed5",
+        "validation_stone_2": "a0e3bf7c6b83801a81b6552728138c992c13d6a81691304465a59a9f1e42ab87",
         "validation_stone_3": "5367559f97a5e08f903d2313ec1fdafc75b9aac342b6fad791aa0fe27d8c03f4",
         "validation_stone_4": "7f78f81dbac7e584fab70183fb632133bbe4fc346d0354b42c445418ea2b0b63",
         "validation_simon_1": "6823bd19b0f53b5ab5735dce9558c8c238e6fa317b3225c05604a61b779496e5",
         "validation_simon_2": "c83e64bdf3fc62f1ccb491511c28d4a799b6942e78d003f2fcb35ed2ee7e0ef3",
         "validation_simon_3": "daec7ee42068a6bdfe6ac80f6b1656a70815cd5dc9fd2e83b2270c9468739fd7",
         "validation_ghost_title": "874d17cd51c27489963db4015e11123b9836a910c3a5c2b6fd1d28780469b1a4",
-        "validation_ghost_story": "09628ae6e3488574800a556289a43a18947de4c046abf324488f4412e00c9277",
-        "validation_nature_title": "20b747b3eb375eba027812af4a35350d5a9ad704cff67bb6079198467a856a2c",
+        "validation_ghost_story": "0123febe676ba3c9fe4ab4f74d9999692c52de7bf1f238e3cf31abf83baa75a1",
+        "validation_nature_title": "387f3e4cb607a959c996c0a0d56917b81bdfcf996a3fbc6eefc42ab07173e085",
         "validation_nature_poem": "07b3240be999a96cf492f27782964ae57b24e22aeda6bf9e5848ef86d8bd770c",
         "pg001_n0006": "bb9d76b8eb1d027fe8b421351ac04590bc9d9bee784a1387b1d32bf92bcb259b",
         "pg023_n0007": "4f21e691095332a9099cfa447c78aecbbd41e55ca2066571461df9b5d9e698df",
@@ -6834,7 +6834,12 @@
         "pg072_tts_underlined_label": "3ddc7cd114358291443cc97f9035303d7e47ea8bd13d0d80b6c7e7e82821cf9f",
         "pg060_tts_roman_001": "0d774bf4df00700527d685f200be0f3f0a423194cdd4008ff08b043a4d6720e9",
         "pg060_tts_roman_002": "075d1e273f2b27d4abe84ff3f48df52e0fb80c39fa29f0647987eb2fa89641dc",
-        "pg060_tts_roman_003": "5402fe2f5ff11ee58003ed63bb6864d1be502f6237111f7dd74ae23f2d794708"
+        "pg060_tts_roman_003": "5402fe2f5ff11ee58003ed63bb6864d1be502f6237111f7dd74ae23f2d794708",
+        "validation_torch_6": "5c9af7d3625a358a89fb74e3cbffe9df7b67817054731d869be16331013815b4",
+        "validation_camera_intro": "0d0a64406ab963db5f0651594ec023a8318475817a79f04faa1dcadc36bb3db1",
+        "validation_camera_1": "7434433b601971d4e13fc0a78ef560a27c9f200a5464f459977f89854aa05760",
+        "validation_camera_2": "6f67c252dcc7fea2b1ae3a90dbb001cc6066837746e34e1935fabbdda5d05f34",
+        "validation_camera_3": "755901407e6157db2f9dd340f7e16e876eabd2ee5332bc004de3b995f35354f2"
       },
       "entrySettings": {
         "pg001_n0002": {
@@ -54613,6 +54618,41 @@
           "format": "mp3"
         },
         "pg060_tts_roman_003": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "validation_torch_6": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "validation_camera_intro": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "validation_camera_1": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "validation_camera_2": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "validation_camera_3": {
           "provider": "openai",
           "model": "gpt-4o-mini-tts",
           "voice": "alloy",
@@ -102397,6 +102437,41 @@
           "format": "mp3"
         },
         "pg060_tts_roman_003": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "validation_torch_6": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "validation_camera_intro": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "validation_camera_1": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "validation_camera_2": {
+          "provider": "openai",
+          "model": "gpt-4o-mini-tts",
+          "voice": "alloy",
+          "instructions": "Speak in a cheerful and positive tone.",
+          "format": "mp3"
+        },
+        "validation_camera_3": {
           "provider": "openai",
           "model": "gpt-4o-mini-tts",
           "voice": "alloy",
